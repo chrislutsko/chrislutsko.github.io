@@ -16,7 +16,7 @@ In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel
 =====
 ***Random Properties of Deterministic Sequences***
 
-In the 20th century, starting with the work of Weyl, mathematicians became interested in the statistical properties of monomial sequences of the form $\alpha n^\theta$ where $\alpha >0$ and $\theta >0$
+In the 20th century, starting with the work of Weyl, mathematicians became interested in the statistical properties of monomial sequences of the form $\alpha n^\theta$ where \alpha >0 and $\theta >0$
 
 ***Asymptotic Distribution of Thin Groups***
 
