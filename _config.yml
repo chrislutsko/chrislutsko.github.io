@@ -76,7 +76,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris Lutsko"
-  avatar           : "images/Sidebar_Image.png"
+  avatar           : "sidebar_image.png"
   bio              : "Hill Assistant Prof."
   location         : "Rutgers University"
   employer         :
