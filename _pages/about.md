@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chris Lutsko's Academic Homepage"
+title: "Welcome to my Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
