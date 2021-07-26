@@ -16,7 +16,8 @@ In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel
 =====
 ***Asymptotic Distribution of Thin Groups***
 
-![GitHub Logo](Apollonian.png)
+![GitHub Logo](/images/Apollonian.png)
+Format: ![Alt Text](url)
 
 
 
