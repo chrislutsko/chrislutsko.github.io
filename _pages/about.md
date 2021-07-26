@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello World
-**About me:** As of September 2020, I am a Hill Assistant Prof. (post-doc) at Rutgers university, with research interests in a broad range of topics relating to number theory, dynamical systems, and mathematical physics. Before this I received my PhD at the University of Bristol under the supervision of [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Balint Toth](https://sites.google.com/view/balint-toth-math/home). 
+**About me:** 
+======
+As of September 2020, I am a Hill Assistant Prof. (post-doc) at Rutgers university, with research interests in a broad range of topics relating to number theory, dynamical systems, and mathematical physics. Before this I received my PhD at the University of Bristol under the supervision of [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Balint Toth](https://sites.google.com/view/balint-toth-math/home). 
 
 
 A data-driven personal website
