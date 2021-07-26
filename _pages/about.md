@@ -18,6 +18,7 @@ In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel
 
 ![Apollonian](/images/Apollonian_3.png)
 
+It is well known that, $\operatorname{SL}_2(\mathbb{R})$, the group of two by two matrices with determinant $\pm 1$ 
 
 
 
