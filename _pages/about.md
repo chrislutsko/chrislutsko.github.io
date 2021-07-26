@@ -16,7 +16,7 @@ In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel
 =====
 ***Asymptotic Distribution of Thin Groups***
 
-![alt text](Apollonian.png)
+![alt text](images/Apollonian.png)
 
 
 ***Pseudo-Random Properties of Deterministic Sequences***
