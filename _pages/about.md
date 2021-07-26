@@ -42,7 +42,7 @@ One very strong measure of pseudo-randomness, is the so-called 'pair correlation
 ![Lorentz](/images/Lorentz.png)
 
 
-<img src="/images/Lorentz.png" width="1000" height="300">
+<img src="/images/Lorentz.png" width="700" height="250">
 
 In the $19^{th}$ Centruy physicists started to ask a simple question, which gave rise to an entire field of mathematical physics -- statistical mechanics. The question was the following: given a simple model for the movement of atoms, can we see the laws of physics which goven large scale objects by studying large ensembles of these atoms. For example, can we use particle dynamics to derive the heat equation (the equation governing how heat diffuses outwards)? Since we observe the heat equation in everyday life, any reasonable model of atomistic behavior should have the heat equation as a natural limit.  
 
