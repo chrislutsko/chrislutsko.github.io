@@ -14,11 +14,11 @@ In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel
 
 **Research Interests**
 =====
-***Asymptotic Distribution of Thin Groups***
+***Asymptotic Distribution of Thin Group Orbits***
 
 ![Apollonian](/images/Apollonian_3.png)
 
-One of the big-picture questions in mathematics, is the charaterization of symmetry. For example, one object with a great deal of symmetry is a *lattice* (think of a square lattice, or a honey-comb hexagonal lattice). Lattices have been studied for hundreds of years, owing in part to their symmetry and place in nature, but also, they give us a useful tool for embedding number theoretic objects (like sequences of numbers) into objects with lots of symmetry. This symmetry allows us to use group theoretic tools to study the lattices, and thus to study the number theoretic objects. 
+One of the big-picture topics in mathematics, is the charaterization of symmetry. For example, one object with a great deal of symmetry is a *lattice* (think of a square lattice, or a honey-comb hexagonal lattice). Lattices have been studied for hundreds of years, owing in part to their symmetry and place in nature, but also, they give us a useful tool for embedding number theoretic objects (like sequences of numbers) into objects with lots of symmetry. This symmetry allows us to use group theoretic tools to study the lattices, and thus to study the number theoretic objects. 
 
 If we consider lattices, not in our usual Euclidean geometry, but in hyperbolic geometry (i.e geomoetry of the hyperbolic half-plane), then studying these lattices is actually the same as studying matrices ($2\times 2$ matrices in the case of the half-plane). This connection has led to numerous approaches for studying problems in number theory. For example, given a hyperbolic lattice, we can glue together opposite sides to form a hyperbolic manifold. In past $200$ years, mathematicians have learned a great deal about flows on these hyperbolic manifolds. Thus we can understand certain number theoretic problems by using the tools developed to study these hyperbolic manifolds. 
 
@@ -39,4 +39,5 @@ One very strong measure of pseudo-randomness, is the so-called 'pair correlation
 
 ***Lorentz Gas and Non-Interacting Particle Systems***
 
+![Lorentz](/images/Lorentz.png)
 
