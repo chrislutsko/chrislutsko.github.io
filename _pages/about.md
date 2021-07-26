@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-As of September 2020, I am a Hill Assistant Prof. (post-doc) at Rutgers university, with research interests in a broad range of topics relating to number theory, dynamical systems, and mathematical physics. Before this I received my PhD at the University of Bristol under the supervision of [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Balint Toth](https://sites.google.com/view/balint-toth-math/home). 
+As of September 2020, I am a Hill Assistant Prof. (post-doc) at Rutgers university, with research interests in a broad range of topics relating to number theory, dynamical systems, and mathematical physics. Before this I received my PhD at the University of Bristol under the supervision of [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [B\'{a}lint T\'{o}th](https://sites.google.com/view/balint-toth-math/home). 
 
 In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel free to get in contact about possible talks.
 
@@ -18,7 +18,7 @@ In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel
 
 ![Apollonian](/images/Apollonian_3.png)
 
-It is well known that, $\operatorname{SL}_2(\mathbb{R})$, the group of two by two matrices with determinant $\pm 1$ 
+It is well known that, $\operatorname{SL}_2(\mathbb{R})$, the group of two by two matrices with determinant $\pm 1$ act on the upper half-plane $\mathbb{H}:= \{ x+iy : y >0 \}$ via M\"{o}bius transformations.
 
 
 
