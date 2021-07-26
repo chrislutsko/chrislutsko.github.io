@@ -14,6 +14,6 @@ In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel
 
 **Research Interests**
 =====
-###Random Properties of Deterministic Sequences
+***Random Properties of Deterministic Sequences***
 
 
