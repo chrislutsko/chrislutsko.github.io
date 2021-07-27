@@ -7,7 +7,7 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-Markup : 1. Hello World
+1. [****Pair Correlation of the Fractional Parts of $\alpha n^\theta$****](files/theta.pdf) w/ [A. Sourmelidis](), and [N. Technau](https://sites.google.com/view/niclas-technaus-website) and [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/) 2021 [ArXiv](https://arxiv.org/abs/2106.09800)
 
 ***<u>Papers:</u>***
 
