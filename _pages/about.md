@@ -29,7 +29,7 @@ In an ongoing project, with [A. Kontorovich](https://sites.math.rutgers.edu/~ale
 
 ***Pseudo-Random Properties of Deterministic Sequences***
 
-![Gap](/images/Gap_Plot.png) 
+<img src="/images/Gap_Plot.png" width="385" height="264">
 
 In the $20^{th}$ century, starting with the work of Weyl, mathematicians became interested in the statistical properties of monomial sequences of the form $(\alpha n^\theta \mod 1 )_{n>0}$ where $\alpha >0$ and $\theta >0$. From a number theoretic point of view there is a natural question one can ask: in the limit as we consider more and more sequence elements, what can be said about the asymptotic distribution of these points? In other words, can we see random behavior emerging from these sequences?
 
