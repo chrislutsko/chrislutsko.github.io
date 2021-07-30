@@ -24,3 +24,7 @@ author_profile: true
  [<b>Statistical properties of dynamical systems: from statistical mechanics to hyperbolic geometry</b>](https://research-information.bris.ac.uk/en/studentTheses/statistical-properties-of-dynamical-systems) <i>University of Bristol </i>, (2020), [[pdf](../files/Thesis_Corrections.pdf)].
  
 ***<u>Conference Proceedings:</u>***
+
+1.Invariance principle for random Lorentz gas in the Boltzmann-Grad Limit, [Oberwolfach Report](https://www.mfo.de/occasion/1910b/www_view) 10/2019 p. 33-35 (2019).
+2.Invariance principle for random Lorentz gas — Beyond the Boltzmann-Grad Limit, [Oberwolfach Report](https://www.mfo.de/occasion/1938/www_view) 42/2019 p. 12-15 (2019)
+
