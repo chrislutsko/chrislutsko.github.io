@@ -15,6 +15,7 @@ author_profile: true
 2. [<b>Farey sequences for thin groups.</b>](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65) <i> International Mathematics Research Notices (Available Online)</i>, (2020) [[ArXiv](https://arxiv.org/abs/1907.01854)], [[pdf](../files/Farey.pdf)].
 3. [<b>Invariance principle for the random wind-tree process</b>](../files/Wind-Tree.pdf) w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>Annales Henri Poincaré (To Appear) </i> (2020) [[ArXiv](https://arxiv.org/abs/1912.02492)], [[pdf](../files/Wind-Tree.pdf)].
 4. [<b>Directions in orbits of geometrically finite hyperbolic subgroups.</b>](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/directions-in-orbits-of-geometrically-finite-hyperbolic-subgroups/62E5FC227B848B7BCD59FD116BE32627) <i>Mathematical Proceedings of the Cambridge Phil. Soc. (Available Online) </i> (2020) [[ArXiv](https://arxiv.org/abs/1811.11054)], [[pdf](../files/Directions.pdf)].
+5. [<b>Invariance Principle for the Random Lorentz Gas—Beyond the Boltzmann-Grad Limit</b>](https://link.springer.com/article/10.1007/s00220-020-03852-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst) w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>Communications in Mathematical Physics <b> 379 </b>, 589–632 </i> (2020) [[ArXiv](https://arxiv.org/abs/1812.11325)], [[pdf](../files/Lorentz_Gas.pdf)].
 
 
 ***<u>PhD Thesis:</u>***
