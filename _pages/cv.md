@@ -21,19 +21,9 @@ Work experience
 * 2020: Hill Assistant Prof. 
   * Rutgers University
   * Mentor: [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019-2020: Organized Linfoot Number Theory Seminar (Bristol)
+* 2021 <i>(Ongoing)</i>: Organized Rutgers Number Theory Seminar
+* 2021 <i>(Ongoing)</i>: Volunteer at [Skype a Scientist](https://www.skypeascientist.com/)
