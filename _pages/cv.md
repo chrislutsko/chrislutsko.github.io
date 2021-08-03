@@ -22,7 +22,7 @@ Work experience
   * Rutgers University
   * Mentor: [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/)
   
-Service and leadership
+Service and outreach
 ======
 * 2019-2020: Organized Linfoot Number Theory Seminar (Bristol)
 * 2021 <i>(Ongoing)</i>: Organized Rutgers Number Theory Seminar
