@@ -5,4 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**<u>Ongoing: Fall 2021:</u>**
+****<u>Fall 2021:</u>****
