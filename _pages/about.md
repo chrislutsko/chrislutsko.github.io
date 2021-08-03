@@ -14,7 +14,7 @@ In the Fall of 2021 I will be organizing the Rutgers number theory seminar. Feel
 
 **Research Interests**
 =====
-***Asymptotic Distribution of Thin Group Orbits*** papers [[1](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/directions-in-orbits-of-geometrically-finite-hyperbolic-subgroups/62E5FC227B848B7BCD59FD116BE32627))] [[2](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)]
+***Asymptotic Distribution of Thin Group Orbits*** [[1](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/directions-in-orbits-of-geometrically-finite-hyperbolic-subgroups/62E5FC227B848B7BCD59FD116BE32627)], [[2](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)]
 
 ![Apollonian](/images/Apollonian_3.png)
 
@@ -27,7 +27,7 @@ One of the projects from my thesis was to study the fine-scale local properties 
 <!---In an ongoing project, with [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), we are using spectral theory of the Laplacian on hyperbolic manifolds, to understand the (rather old) Apollonian counting problem. That is, to count the number of circles in this packing (and indeed a wide class of sphere packings) with radius larger than some increasing lower bound by extending techniques from spectral theory of the Laplacian on hyperbolic manifolds to new settings. This has an interesting connection to number theory, as it tells us how to (asymptotically) count integral solutions to a particular quadratic form with values less than some increasing upper bound.--->
 
 
-***Pseudo-Random Properties of Deterministic Sequences*** Papers [[1](https://arxiv.org/abs/2106.09800)] [[2](https://arxiv.org/abs/2007.09292)]
+***Pseudo-Random Properties of Deterministic Sequences*** [[1](https://arxiv.org/abs/2106.09800)], [[2](https://arxiv.org/abs/2007.09292)]
 
 <img src="/images/Gap_Plot.png" width="385" height="264">
 
@@ -37,7 +37,7 @@ While this question has a natural motivation from a number theory perspective, t
 
 One very strong measure of pseudo-randomness, is the so-called 'pair correlation function'. In [this paper](https://arxiv.org/abs/2106.09800), together with [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), we showed that a wide class of these monomial sequences exhibit Poissonian pair correlation. In fact, this is one of the only examples where the pair correlation function has been shown to converge to the Poissonian limit for explicit values of $\alpha$ and $\theta$. The paper builds on a methodology outlined in [this paper](https://arxiv.org/abs/2007.09292) which proved convergence of (so-called) 'long-range correlations' (a weaker measure of pseudo-randomness) for some other monomial sequences.
 
-***Lorentz Gas and Non-Interacting Particle Systems*** Papers [[1](https://link.springer.com/article/10.1007/s00220-020-03852-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)], [[2](https://arxiv.org/abs/1912.02492)]
+***Lorentz Gas and Non-Interacting Particle Systems*** [[1](https://link.springer.com/article/10.1007/s00220-020-03852-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)], [[2](https://arxiv.org/abs/1912.02492)]
 
 <img src="/images/Lorentz.png" width="800" height="220">
 
