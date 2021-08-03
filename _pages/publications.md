@@ -21,7 +21,7 @@ author_profile: true
 
 ***<u>PhD Thesis:</u>***
 
- [<b>Statistical properties of dynamical systems: from statistical mechanics to hyperbolic geometry</b>](https://research-information.bris.ac.uk/en/studentTheses/statistical-properties-of-dynamical-systems) <i>University of Bristol </i>, (2020), [[pdf](../files/Thesis_Corrections.pdf)].
+ <b>Statistical properties of dynamical systems: from statistical mechanics to hyperbolic geometry</b> <i>University of Bristol </i>, (2020), [[Link](https://research-information.bris.ac.uk/en/studentTheses/statistical-properties-of-dynamical-systems)], [[pdf](../files/Thesis_Corrections.pdf)].
  
 ***<u>Conference Proceedings:</u>***
 
