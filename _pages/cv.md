@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full academic cv can be found [here](../files/cv.pdf). Some highlights:
+A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: July 12 2021). Some highlights:
 
 Education
 ======
