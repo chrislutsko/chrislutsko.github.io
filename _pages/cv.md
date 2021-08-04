@@ -23,5 +23,4 @@ Work experience
 Service and outreach
 ======
 * 2019-2020: Organized Linfoot Number Theory Seminar (Bristol)
-* 2021 <i>(Ongoing)</i>: Organized Rutgers Number Theory Seminar
 * 2021 <i>(Ongoing)</i>: Volunteer at [Skype a Scientist](https://www.skypeascientist.com/)
