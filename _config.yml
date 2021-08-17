@@ -78,8 +78,8 @@ author:
   name             : "Chris Lutsko"
   avatar           : "sidebar_image.png"
   bio              : "Hill Assistant Prof."
-  location         : "Rutgers University"
-  employer         :
+  location         : "Hill Center Office 242"
+  employer         : "Rutgers University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=5%2C31&sciodt=0%2C31&cites=13754600401406655328&scipsc=&q=Christopher+Lutsko&btnG="
   email            : "chris.[lastname]@rutgers.edu"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -182,6 +182,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  links:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -222,6 +225,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  - scope:
+      path: ""
+      type: links
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true    
   # _portfolio
  # - scope:
  #     path: ""
