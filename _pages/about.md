@@ -10,6 +10,8 @@ redirect_from:
 
 As of September 2020, I am a Hill Assistant Prof. (post-doc) at Rutgers university, my mentor is [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/). My research interests lie at the intersection of several topics including number theory, dynamical systems, and mathematical physics. Before this I received my PhD at the University of Bristol under the supervision of [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Bálint Tóth](https://sites.google.com/view/balint-toth-math/home). 
 
+I am currently co-organizing the Rutgers number theory seminar. Please feel free to contact me about the possibility of giving a talk. 
+
 **Research Interests**
 =====
 ***Asymptotic Distribution of Thin Group Orbits*** [[1](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/directions-in-orbits-of-geometrically-finite-hyperbolic-subgroups/62E5FC227B848B7BCD59FD116BE32627)], [[2](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)]
