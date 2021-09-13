@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: July 12 2021). Some highlights:
+A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: September 13 2021). Some highlights:
 
 Education
 ======
@@ -23,4 +23,5 @@ Work experience
 Service and outreach
 ======
 * 2019-2020: Organized Linfoot Number Theory Seminar (Bristol)
-* 2021 <i>(Ongoing)</i>: Volunteer at [Skype a Scientist](https://www.skypeascientist.com/)
+* 2021: Volunteer at [Skype a Scientist](https://www.skypeascientist.com/)
+* 2021: <i>(Ongoing) </i> Organized Rutgers Number Theory Seminar
