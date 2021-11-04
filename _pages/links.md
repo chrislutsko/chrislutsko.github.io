@@ -27,7 +27,7 @@ Many more...
 
 ***<u>Lutsko Family Science:</u>***
 
-  My father: [Jim Lutsko](lutsko.com) is a physicist at the Université libre de Bruxelles studying cystalization, nucleation, and density functional theory.
+  My father: [Jim Lutsko](https://lutsko.com) is a physicist at the Université libre de Bruxelles studying cystalization, nucleation, and density functional theory.
   
   My brother: [Nick Lutsko](https://nicklutsko.github.io/) is a climate scientist at the Scripps Institution of Oceanography studying climate sensitivity and how to capture complex atmospheric phenomena using idealized models. ([here](https://www.artnews.com/art-in-america/interviews/visualizing-climate-change-michael-wang-nick-lutsko-1202681918/) is a nice exchange he had with an artist).
 
