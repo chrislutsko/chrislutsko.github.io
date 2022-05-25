@@ -6,13 +6,14 @@ author_profile: true
 ---
 
 ***<u>Preprints:</u>***
-
-0.  <b>Effective Counting in Sphere Packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) [[pdf](../files/KontorovichLutsko2022.pdf)].
-
-0.  <b>Correlations of the Fractional Parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
-
-0.  <b>Pair Correlation of the Fractional Parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
-
+<ol reversed>
+<li>  <b>Effective Counting in Sphere Packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) [[pdf](../files/KontorovichLutsko2022.pdf)].
+ </li>
+<li>  <b>Correlations of the Fractional Parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
+ </li>
+<li>  <b>Pair Correlation of the Fractional Parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
+ </li>
+</ol>
 ***<u>Publications:</u>***
 
 0.  <b>Long-range correlations of sequences modulo 1</b> <i>Journal of Number Theory (Available Online) </i>, (2021) [[Link](https://www.sciencedirect.com/science/article/pii/S0022314X21002274)], [[ArXiv](https://arxiv.org/abs/2007.09292)], [[pdf](../files/Long_Range.pdf)].
