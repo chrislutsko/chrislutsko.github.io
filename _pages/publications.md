@@ -7,13 +7,7 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-ul {
-    transform: rotate(180deg);
-}
-ul > li {
-    transform: rotate(-180deg);
-}
-<ol start = 7>
+<ol start = 7 reversed >
 <li>  <b>Effective Counting in Sphere Packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) [[pdf](../files/KontorovichLutsko2022.pdf)].
  </li>
 <li>  <b>Correlations of the Fractional Parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
