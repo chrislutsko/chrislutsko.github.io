@@ -7,14 +7,11 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-<ol start="7" reversed="reversed">
-<li> <b>Effective Counting in Sphere Packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) [[pdf](../files/KontorovichLutsko2022.pdf)].
- </li>
- <li> <b>Correlations of the Fractional Parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
- </li>
- <li> <b>Pair Correlation of the Fractional Parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
- </li>
- </ol>
+9\.   <b>Effective Counting in Sphere Packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) [[pdf](../files/KontorovichLutsko2022.pdf)].
+
+8\.   <b>Correlations of the Fractional Parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
+
+7\.   <b>Pair Correlation of the Fractional Parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
 
 ***<u>Publications:</u>***
 
