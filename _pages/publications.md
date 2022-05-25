@@ -7,11 +7,11 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-&nbsp;&nbsp;&nbsp;9\.   <b>Effective Counting in Sphere Packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) [[pdf](../files/KontorovichLutsko2022.pdf)].
+&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) [[pdf](../files/KontorovichLutsko2022.pdf)].
 
-&nbsp;&nbsp;&nbsp;8\.   <b>Correlations of the Fractional Parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
+&nbsp;&nbsp;&nbsp;8\.   <b>Correlations of the fractional parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
 
-&nbsp;&nbsp;&nbsp;7\.   <b>Pair Correlation of the Fractional Parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
+&nbsp;&nbsp;&nbsp;7\.   <b>Pair Correlation of the fractional parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
 
 ***<u>Publications:</u>***
 
@@ -23,7 +23,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;3\.  <b>Directions in orbits of geometrically finite hyperbolic subgroups.</b> <i>Mathematical Proceedings of the Cambridge Phil. Soc. <b> 171 </b>(2), 277-316 </i> (2020) [[Link](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/directions-in-orbits-of-geometrically-finite-hyperbolic-subgroups/62E5FC227B848B7BCD59FD116BE32627)], [[ArXiv](https://arxiv.org/abs/1811.11054)], [[pdf](../files/Directions.pdf)].
 
-&nbsp;&nbsp;&nbsp;2\.  <b>Invariance Principle for the Random Lorentz Gas—Beyond the Boltzmann-Grad Limit</b> w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>Communications in Mathematical Physics, <b> 379 </b>, 589–632 </i> (2020) [[Link](https://link.springer.com/article/10.1007/s00220-020-03852-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)], [[ArXiv](https://arxiv.org/abs/1812.11325)], [[pdf](../files/Lorentz_Gas.pdf)].
+&nbsp;&nbsp;&nbsp;2\.  <b>Invariance principle for the random Lorentz gas—beyond the Boltzmann-Grad limit</b> w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>Communications in Mathematical Physics, <b> 379 </b>, 589–632 </i> (2020) [[Link](https://link.springer.com/article/10.1007/s00220-020-03852-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)], [[ArXiv](https://arxiv.org/abs/1812.11325)], [[pdf](../files/Lorentz_Gas.pdf)].
 
 &nbsp;&nbsp;&nbsp;1\.  <b>Microscopic approach to nonlinear reaction-diffusion: The case of morphogen gradient formation.</b> w/ [J. P. Boon](http://homepages.ulb.ac.be/~jpboon/), and [J. F. Lutsko](http://www.lutsko.com/), <i>Phys. Rev. E, <b> 85 </b>, 021126 </i> (2012) [[Link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.021126)], [[ArXiv](https://arxiv.org/abs/1110.5463)], [[pdf](../files/Nonlinear_RD.pdf)].
 
