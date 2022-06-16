@@ -17,7 +17,7 @@ author_profile: true
 
 ***<u>Publications:</u>***
 
-&nbsp;&nbsp;&nbsp;6\.  <b>Long-range correlations of sequences modulo 1</b> <i>Journal of Number Theory (Available Online) </i>, (2021) [[Link](https://www.sciencedirect.com/science/article/pii/S0022314X21002274)], [[ArXiv](https://arxiv.org/abs/2007.09292)], [[pdf](../files/Long_Range.pdf)].
+&nbsp;&nbsp;&nbsp;6\.  <b>Long-range correlations of sequences modulo 1</b> <i>Journal of Number Theory, <b>234</b>, 333-348 </i>, (2023) [[Link](https://www.sciencedirect.com/science/article/pii/S0022314X21002274)], [[ArXiv](https://arxiv.org/abs/2007.09292)], [[pdf](../files/Long_Range.pdf)].
 
 &nbsp;&nbsp;&nbsp;5\.  <b>Farey sequences for thin groups.</b> <i> International Mathematics Research Notices (Available Online)</i>, (2020) [[Link](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)], [[ArXiv](https://arxiv.org/abs/1907.01854)], [[pdf](../files/Farey.pdf)].
 
