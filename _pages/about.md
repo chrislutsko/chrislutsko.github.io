@@ -28,7 +28,7 @@ One of the projects from my thesis was to study the fine-scale local properties 
 
 
 
-***Pseudo-Random Properties of Deterministic Sequences*** [[1](https://arxiv.org/abs/2106.09800)], [[2](https://arxiv.org/abs/2112.11524)], [[3](https://arxiv.org/abs/2007.09292)]
+***Pseudo-Random Properties of Deterministic Sequences*** [[1](https://arxiv.org/abs/2206.07809)], [[2](https://arxiv.org/abs/2106.09800)], [[3](https://arxiv.org/abs/2112.11524)], [[4](https://arxiv.org/abs/2007.09292)]
 
 <img src="/images/Gap_Plot.png" width="385" height="264">
 
@@ -38,7 +38,9 @@ While this question has a natural motivation from a number theory perspective, t
 
 One very strong measure of pseudo-randomness, is the so-called 'pair correlation function'. In [this paper](https://arxiv.org/abs/2106.09800), together with [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), we showed that a wide class of these monomial sequences exhibit Poissonian pair correlation. In fact, this is one of the only examples where the pair correlation function has been shown to converge to the Poissonian limit for explicit values of $\alpha$ and $\theta$. The paper builds on a methodology outlined in [this paper](https://arxiv.org/abs/2007.09292) which proved convergence of (so-called) 'long-range correlations' (a weaker measure of pseudo-randomness) for some other monomial sequences.
 
-Recently, in [this paper](https://arxiv.org/abs/2112.11524) together with [N. Technau](https://sites.google.com/view/niclas-technaus-website) we extended this previous result to $m$-point correlations for a wide class of sequences, which are even stronger measures of pseudo-randomness.  Again, this is one of very few examples showing convergence of the $m$-point correlation to the Poissonian limit, and introduced many new ideas and techniques. 
+In [this paper](https://arxiv.org/abs/2112.11524) together with [N. Technau](https://sites.google.com/view/niclas-technaus-website) we extended this previous result to $m$-point correlations for a wide class of sequences, which are even stronger measures of pseudo-randomness.  Again, this is one of very few examples showing convergence of the $m$-point correlation to the Poissonian limit, and introduced many new ideas and techniques. 
+
+More recently in [this paper](https://arxiv.org/abs/2206.07809) also with [N. Technau](https://sites.google.com/view/niclas-technaus-website) we further extended our methodology to sequences of the form $(\log(n))^A \ (\text{mod} 1)$. Since these sequences grow slower than the above sequences, we were able to show that all $m$-point correlations converge to the Poissonian limit. This then implies that the gap distribution is also Poissonian. To our knowledge this is the first explicit sequence modulo 1 which can be shown to exhibit this extremely strong pseudo-randomness property.
 
 ***Lorentz Gas and Non-Interacting Particle Systems*** [[1](https://link.springer.com/article/10.1007/s00220-020-03852-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)], [[2](https://arxiv.org/abs/1912.02492)]
 
