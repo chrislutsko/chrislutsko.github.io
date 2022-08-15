@@ -11,8 +11,8 @@ A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: 
 
 Education
 ======
-* B.S. in Mathematics, University of Texas at Austin 2016
-* Ph.D in Mathematics, Bristol University, 2020 (Advisors: [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Bálint Tóth](https://sites.google.com/view/balint-toth-math/home))
+* B.S. in Mathematics, University of Texas at Austin, 2016.
+* Ph.D in Mathematics, Bristol University, 2020 (Advisors: [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Bálint Tóth](https://sites.google.com/view/balint-toth-math/home)).
 
 Work experience
 ======
