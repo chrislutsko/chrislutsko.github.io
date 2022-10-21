@@ -18,7 +18,7 @@ I am currently co-organizing the Rutgers number theory seminar. Please feel free
 
 ![Apollonian](/images/Apollonian_3.png)
 
-[Here](https://www.youtube.com/watch?v=SOHhKdno2jA) is a recording of a colloquium I gave on this topic at Stony Brook in September 2022 (sorry for the poor audio!).
+[Here](https://brandeis.zoom.us/rec/play/gC1o00ugXUG3KLimEqUlN8btUZK_GzhhhFEqiFlFTo4CqHc-ra9C7S_25_8nYe-1bQIcFN1Du11mYuVI.N1MgOg1vflvHmUta?continueMode=true&_x_zm_rtaid=qe4IG0M9QT-fy0ZDDQEjSg.1666358198662.3d3a62da42b9a7f9f0141d13b18457fb&_x_zm_rhtaid=33) is a recording of a seminar talk at the New England Dynamical Systems and Number Theory Seminar. .
 
 The central image in the above picture, is a so-called Apollonian circle packing (named after Apollonius of Perga circa 200 B.C). To generate such a packing we start with an initial configuration of three mutually tangent circles, like the one drawn in solid lines on the left. Now notice that there are two circles tangent to the three in the initial packing (in dotted lines on the left). We add these to the configuration, and then continue to add circles in all of the resulting gaps. This generates an infinite packing, sketched in the middle. These packings have fascinated the likes of Descartes, Leibniz, the Princess Elizabeth of Bohemia, and the Nobel prize winning chemist Frederick Soddy (who even eulogized them in a [poem](https://www.nature.com/articles/1371021a0)). While these are geometrically very interesting objects, there is a simple relationship between the radii of the circles discovered by Descartes. This quadratic form, relating the radii of four mutually tangent circles in the packing, allows one to make a connection between Apollonian circle packings, and number theory.
 
