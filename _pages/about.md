@@ -14,7 +14,7 @@ I am currently co-organizing the Rutgers number theory seminar. Please feel free
 
 **Research Interests**
 =====
-***Kleinian Sphere Packings*** [[1](https://arxiv.org/abs/2205.13004)],[[2](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/directions-in-orbits-of-geometrically-finite-hyperbolic-subgroups/62E5FC227B848B7BCD59FD116BE32627)], [[3](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)]
+***Kleinian Sphere Packings*** [[1](https://arxiv.org/abs/2205.13004)], [[2](../files/Exceptional_Spec.pdf)], [[3](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/directions-in-orbits-of-geometrically-finite-hyperbolic-subgroups/62E5FC227B848B7BCD59FD116BE32627)], [[4](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)]
 
 ![Apollonian](/images/Apollonian_3.png)
 
