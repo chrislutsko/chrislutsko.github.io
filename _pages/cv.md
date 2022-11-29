@@ -24,4 +24,5 @@ Service and outreach
 ======
 * 2019-2020: Organized Linfoot Number Theory Seminar (Bristol)
 * 2021: Volunteer at [Skype a Scientist](https://www.skypeascientist.com/)
+* 2021: Speaker at Chicago Teen Mentors [STEM speaker series](https://www.chicagoteenmentors.org/events) (Online) 
 * 2021: <i>(Ongoing) </i> Organized Rutgers Number Theory Seminar
