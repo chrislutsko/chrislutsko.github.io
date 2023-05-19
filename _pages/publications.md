@@ -7,7 +7,7 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-&nbsp;&nbsp;&nbsp;13\.   <b>Mean square of Eisenstein series</b> (2022), w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/) (2023).
+&nbsp;&nbsp;&nbsp;13\.   <b>Mean square of Eisenstein series</b>, w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/) (2023).
 
 &nbsp;&nbsp;&nbsp;12\.   <b>An abstract spectral approach to horospherical equidistribution</b> (2022), [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
 
