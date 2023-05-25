@@ -7,10 +7,13 @@ redirect_from:
   - /resume
 ---
 
-A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: 29 November 2022). Some highlights:
+A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: 25 May 2023). Some highlights:
 
 Work experience
 ======
+* 2023: Post-doc.
+  * University of Zurich
+  * Mentor: [Alex Gorodnik](https://www.math.uzh.ch/gorodnik/)
 * 2020: Hill Assistant Prof. 
   * Rutgers University
   * Mentor: [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/)
