@@ -7,6 +7,8 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
+&nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023),  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
+
 &nbsp;&nbsp;&nbsp;13\.   <b>Mean square of Eisenstein series</b>, w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/) (2023),  [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
 
 
