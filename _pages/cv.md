@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: 18 September 2023). Some highlights:
+A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: 22 November 2023). Some highlights:
 
 Work experience
 ======
