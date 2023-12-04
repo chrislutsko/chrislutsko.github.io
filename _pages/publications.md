@@ -7,7 +7,7 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-&nbsp;&nbsp;&nbsp;15\.   <b>Counting in Lattice Orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023),  [[pdf](../files/Orbit_Counting.pdf)].
+&nbsp;&nbsp;&nbsp;15\.   <b>Counting in Lattice Orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023),  [[pdf](../files/Orbit_Count.pdf)].
 
 &nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023),  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
 
