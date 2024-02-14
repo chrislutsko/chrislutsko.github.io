@@ -7,24 +7,31 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-&nbsp;&nbsp;&nbsp;15\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023),  [[pdf](../files/Orbit_Count.pdf)].
+&nbsp;&nbsp;&nbsp;18\.   <b>Average variance bounds for integer points on the sphere </b>, (2024), [[pdf](../files/Average_Sphere.pdf)].
 
-&nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023),  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
+&nbsp;&nbsp;&nbsp;17\.   <b>Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces </b>, w/  [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https://www.uni-paderborn.de/person/45027), (2024), [[ArXiv](https://arxiv.org/abs/2402.02530)], [[pdf](../files/LWW2024.pdf)].
 
-&nbsp;&nbsp;&nbsp;13\.   <b>Mean square of Eisenstein series</b>, w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023),  [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
+&nbsp;&nbsp;&nbsp;16\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
+
+&nbsp;&nbsp;&nbsp;15\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023),  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
 
 
-&nbsp;&nbsp;&nbsp;12\.   <b>An abstract spectral approach to horospherical equidistribution</b> (2022), [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
+&nbsp;&nbsp;&nbsp;14\.   <b>An abstract spectral approach to horospherical equidistribution</b> (2022), [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
+
 
 
 ***<u>Publications:</u>***
 
 
+&nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b> [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023) (Under revision: <i> International Journal of Number Theory</i>) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
+
+&nbsp;&nbsp;&nbsp;12\.   <b>These numbers look random but aren't, mathematicians prove</b> w/  (2024) <i> Scientific American/i> [[Link](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)].
+
 &nbsp;&nbsp;&nbsp;11\.   <b>$m$-Point correlations of the fractional parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) (Under revision: <i> American Journal of Mathematics</i>) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
 
 &nbsp;&nbsp;&nbsp;10\.   <b>Full poissonian local statistics of slowly growing sequences</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website) (2022) (Under revision: <i> Compositio Mathematica</i>) , [[ArXiv](https://arxiv.org/abs/2206.07809)], [[pdf](../files/Logarithmic_15_June.pdf)].
 
-&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) (Under revision: <i> Journal of the AMR</i>),  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
+&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) (Accepted for publication: <i> Journal of the AMR</i>),  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
 
 &nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b> w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), <i> Journal d'Analyse Mathematique, <b>151</b>, 171-179 </i>, (2023) [[Link](https://link.springer.com/article/10.1007/s11854-023-0322-z)], [[ArXiv](https://arxiv.org/abs/2210.13969)], [[pdf](../files/Exceptional_Spec.pdf)].
 
