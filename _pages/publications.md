@@ -7,8 +7,6 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-&nbsp;&nbsp;&nbsp;18\.   <b>Average variance bounds for integer points on the sphere </b>, (2024), [[pdf](../files/Average_Sphere.pdf)].
-
 &nbsp;&nbsp;&nbsp;17\.   <b>Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces </b>, w/  [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https://www.uni-paderborn.de/person/45027), (2024), [[ArXiv](https://arxiv.org/abs/2402.02530)], [[pdf](../files/LWW2024.pdf)].
 
 &nbsp;&nbsp;&nbsp;16\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
