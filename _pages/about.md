@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In Fall 2024 I will start an assistant professor position at the university of Houson. 
+In Fall 2024 I will start an assistant professor position at the University of Houson. 
 
 In September 2023 I will began a post-doc at the University of Zurich, where my mentor will be [Alex Gorodnik](https://www.math.uzh.ch/gorodnik/).
 
@@ -15,4 +15,4 @@ Since September 2020 I have been a Hill assistant professor (post-doc) at Rutger
 
 
 
-For a non-technical introduction to one aspect of my work, see [this article](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/) n Scientific American which I wrote. 
+For a non-technical introduction to one aspect of my work, see [this article](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/) in Scientific American which I wrote. 
