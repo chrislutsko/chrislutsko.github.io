@@ -25,7 +25,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b> [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023) (Under revision: <i> International Journal of Number Theory</i>) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
 
-&nbsp;&nbsp;&nbsp;12\.   <b>These numbers look random but aren't, mathematicians prove</b> w/  (2024) <i> Scientific American/i> [[Link](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)].
+&nbsp;&nbsp;&nbsp;12\.   <b>These numbers look random but aren't, mathematicians prove</b> w/  (2024) <i> Scientific American </i> [[Link](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)].
 
 &nbsp;&nbsp;&nbsp;11\.   <b>$m$-Point correlations of the fractional parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) (Under revision: <i> American Journal of Mathematics</i>) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
 
