@@ -23,7 +23,7 @@ author_profile: true
 ***<u>Publications:</u>***
 
 
-&nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b> [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023) (Under revision: <i> International Journal of Number Theory</i>) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
+&nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b> [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023) (Accepted for publication: <i> International Journal of Number Theory</i>) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
 
 &nbsp;&nbsp;&nbsp;12\.   <b>These numbers look random but aren't, mathematicians prove</b> w/  (2024) <i> Scientific American </i> [[Link](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)].
 
@@ -31,11 +31,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;10\.   <b>Full poissonian local statistics of slowly growing sequences</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website) (2022) (Under revision: <i> Compositio Mathematica</i>) , [[ArXiv](https://arxiv.org/abs/2206.07809)], [[pdf](../files/Logarithmic_15_June.pdf)].
 
-&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) (Accepted for publication: <i> Journal of the AMR</i>),  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
+&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) <i>Journal of the AMR, <b>2</b>(1), 15-52 </i>, (2024) [[Link](https://jamathr.org/index.php/jamr/article/view/Vol-2Issue-1Paper-2)], ,  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
 
 &nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b> w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), <i> Journal d'Analyse Mathematique, <b>151</b>, 171-179 </i>, (2023) [[Link](https://link.springer.com/article/10.1007/s11854-023-0322-z)], [[ArXiv](https://arxiv.org/abs/2210.13969)], [[pdf](../files/Exceptional_Spec.pdf)].
 
-&nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website) (2021) (Accepted for publication: <i> Journal of the European Mathematical Society</i>) [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
+&nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website) (Published first online: <i> Journal of the European Mathematical Society</i>) (2024) [[Link](https://ems.press/journals/jems/articles/14297682)] [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
 
 &nbsp;&nbsp;&nbsp;6\.  <b>Long-range correlations of sequences modulo 1</b> <i>Journal of Number Theory, <b>234</b>, 333-348 </i>, (2022) [[Link](https://www.sciencedirect.com/science/article/pii/S0022314X21002274)], [[ArXiv](https://arxiv.org/abs/2007.09292)], [[pdf](../files/Long_Range.pdf)].
 
