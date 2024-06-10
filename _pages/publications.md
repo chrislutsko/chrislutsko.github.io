@@ -19,7 +19,7 @@ author_profile: true
 
 ***<u>Publications:</u>***
 
-&nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023) (Available Online <i> J. Reine Angew. Math.</i>), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
+&nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023) (Available online <i> J. Reine Angew. Math.</i>), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
 
 &nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b> [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023) (Accepted for publication: <i> Int. J. of Number Theory</i>) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
 
