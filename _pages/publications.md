@@ -19,7 +19,7 @@ author_profile: true
 
 ***<u>Publications:</u>***
 
-&nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023) (Accepted for publication: <i> J. Reine Angew. Math.</i>)  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
+&nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023) (Available Online <i> J. Reine Angew. Math.</i>), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
 
 &nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b> [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023) (Accepted for publication: <i> Int. J. of Number Theory</i>) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
 
@@ -33,7 +33,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b> w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), <i> J. Anal. Math. <b>151</b>, 171-179 </i>, (2023) [[Link](https://link.springer.com/article/10.1007/s11854-023-0322-z)], [[ArXiv](https://arxiv.org/abs/2210.13969)], [[pdf](../files/Exceptional_Spec.pdf)].
 
-&nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website) (Published first online: <i> J. of the Eur. Math. Soc. (JEMS)</i>) (2024) [[Link](https://ems.press/journals/jems/articles/14297682)] [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
+&nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website) (Available online: <i> J. of the Eur. Math. Soc. (JEMS)</i>) (2024), [[Link](https://ems.press/journals/jems/articles/14297682)], [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
 
 &nbsp;&nbsp;&nbsp;6\.  <b>Long-range correlations of sequences modulo 1</b> <i>J. of Number Theory, <b>234</b>, 333-348 </i>, (2022) [[Link](https://www.sciencedirect.com/science/article/pii/S0022314X21002274)], [[ArXiv](https://arxiv.org/abs/2007.09292)], [[pdf](../files/Long_Range.pdf)].
 
