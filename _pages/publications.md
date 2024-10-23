@@ -27,9 +27,9 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;12\.   <b>These numbers look random but aren't, mathematicians prove</b> w/  (2024) <i> Scientific American </i> [[Link](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)].
 
-&nbsp;&nbsp;&nbsp;11\.   <b>$m$-Point correlations of the fractional parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) (Under revision: <i> Amer. J. of Math.</i>) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
+&nbsp;&nbsp;&nbsp;11\.   <b>$m$-Point correlations of the fractional parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) (Accepted: <i> Amer. J. of Math.</i>) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
 
-&nbsp;&nbsp;&nbsp;10\.   <b>Full poissonian local statistics of slowly growing sequences</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website) (2022) (Under revision: <i> Compos. Math.</i>) , [[ArXiv](https://arxiv.org/abs/2206.07809)], [[pdf](../files/Logarithmic_15_June.pdf)].
+&nbsp;&nbsp;&nbsp;10\.   <b>Full poissonian local statistics of slowly growing sequences</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website) (2022) (Accepted: <i> Compos. Math.</i>) , [[ArXiv](https://arxiv.org/abs/2206.07809)], [[pdf](../files/Logarithmic_15_June.pdf)].
 
 &nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) <i>J. of the Assoc. Math. Res. <b>2</b>, 15-52 </i>, (2024) [[Link](https://jamathr.org/index.php/jamr/article/view/Vol-2Issue-1Paper-2)], ,  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
 
