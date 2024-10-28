@@ -39,7 +39,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;6\.  <b>Long-range correlations of sequences modulo 1</b> <i>J. of Number Theory, <b>234</b>, 333-348 </i>, (2022) [[Link](https://www.sciencedirect.com/science/article/pii/S0022314X21002274)], [[ArXiv](https://arxiv.org/abs/2007.09292)], [[pdf](../files/Long_Range.pdf)].
 
-&nbsp;&nbsp;&nbsp;5\.  <b>Farey sequences for thin groups.</b> <i> Int. Math. Res. Not. (IMRN), <b>15</b>, 11642-11689 </i>, (2020) [[Link](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)], [[ArXiv](https://arxiv.org/abs/1907.01854)], [[pdf](../files/Farey.pdf)].
+&nbsp;&nbsp;&nbsp;5\.  <b>Farey sequences for thin groups.</b> <i> Int. Math. Res. Not. (IMRN), <b>15</b>, 11642-11689 </i>, (2022) [[Link](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)], [[ArXiv](https://arxiv.org/abs/1907.01854)], [[pdf](../files/Farey.pdf)].
 
 &nbsp;&nbsp;&nbsp;4\.  <b>Invariance principle for the random wind-tree process</b> w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>Ann. Henri Poincaré, <b>22</b>(10), 3357-3389 </i> (2021) [[Link](https://link.springer.com/article/10.1007/s00023-021-01106-4?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20210907)],[[ArXiv](https://arxiv.org/abs/1912.02492)], [[pdf](../files/Wind-Tree.pdf)].
 
