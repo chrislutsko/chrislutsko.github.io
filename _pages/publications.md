@@ -7,7 +7,7 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-&nbsp;&nbsp;&nbsp;20\.   <b>Diffusion of the random Lorentz process in a magnetic field</b> w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), (2024), [[pdf](../files/LutskoToth2024.pdf)].
+&nbsp;&nbsp;&nbsp;20\.   <b>Diffusion of the random Lorentz process in a magnetic field</b> w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), (2024), [[ArXiv](https://arxiv.org/abs/2411.03984)], [[pdf](../files/LutskoToth2024.pdf)].
 
 &nbsp;&nbsp;&nbsp;19\.   <b>Sign changes along geodesics of modular forms</b> w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
 
