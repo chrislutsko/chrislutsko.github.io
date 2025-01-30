@@ -17,11 +17,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;16\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
 
-&nbsp;&nbsp;&nbsp;15\.   <b>An abstract spectral approach to horospherical equidistribution</b> (2022), [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
-
 
 
 ***<u>Publications:</u>***
+
+&nbsp;&nbsp;&nbsp;15\.   <b>An abstract spectral approach to horospherical equidistribution</b> (2022), (Under Revision <i> Nonlinearity </i>) [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
 
 &nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023) (Available online <i> J. Reine Angew. Math.</i>), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
 
