@@ -35,7 +35,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) <i>J. of the Assoc. Math. Res. <b>2</b>, 15-52 </i>, (2024) [[Link](https://jamathr.org/index.php/jamr/article/view/Vol-2Issue-1Paper-2)], ,  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
 
-&nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b> w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), <i> J. Anal. Math. <b>151</b>, 171-179 </i>, (2023) [[Link](https://link.springer.com/article/10.1007/s11854-023-0322-z)], [[ArXiv](https://arxiv.org/abs/2210.13969)], [[pdf](../files/Exceptional_Spec.pdf)].
+&nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b> w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), <i> J. Anal. Math. (Special edition dedicated to P. Sarnak) <b>151</b>, 171-179 </i>, (2023) [[Link](https://link.springer.com/article/10.1007/s11854-023-0322-z)], [[ArXiv](https://arxiv.org/abs/2210.13969)], [[pdf](../files/Exceptional_Spec.pdf)].
 
 &nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website) (Available online: <i> J. of the Eur. Math. Soc. (JEMS)</i>) (2024), [[Link](https://ems.press/journals/jems/articles/14297682)], [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
 
