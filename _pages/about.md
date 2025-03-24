@@ -13,4 +13,4 @@ From 2023-24 I was a post-doc at the University of Zurich, where my mentor was [
 
 
 
-My research interests lie at the intersection of several topics including number theory, spectral theory, homogeneous dynamics, and mathematical physics. For a non-technical introduction to one aspect of my work, see [this article](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/) in Scientific American which I wrote. 
+My research interests lie at the intersection of several topics including number theory, spectral theory, homogeneous dynamics, and mathematical physics. For a non-technical introduction to one aspect of my work, see [this article](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/) in Scientific American which I wrote (Es gibt auch eine Übersetzung unter [Spektrum der Wissenschaft](https://www.spektrum.de/news/zwei-mathematiker-erzeugen-die-zufaelligsten-folgen-der-welt/2205985)).
