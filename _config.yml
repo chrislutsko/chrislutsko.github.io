@@ -13,7 +13,7 @@ title                    : "Chris Lutsko / Homepage"
 title_separator          : "-"
 name                     : &name "Chris Lutsko"
 description              : &description "assistant professor"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://chrislutsko.github.io"
+url                      : https://chrislutsko.github.io # the base hostname & protocol for your site e.g. "https://chrislutsko.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrislutsko/chrislutsko.github.io"
 
