@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chris Lutsko / Homepage"
+title                    : "Chris Lutsko / Homepag3e"
 title_separator          : "-"
 name                     : &name "Chris Lutsko"
-description              : &description "assistant professor"
-url                      : https://chrislutsko.github.io # the base hostname & protocol for your site e.g. "https://chrislutsko.github.io"
+description              : &description "Homepage"
+url                      : https://chrislutsko.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrislutsko/chrislutsko.github.io"
 
@@ -22,22 +22,22 @@ repository               : "chrislutsko/chrislutsko.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Profile.png"
+  avatar           : "Ella_solo.jpg"
   name             : "Chris Lutsko"
   pronouns         : "he/him"  
-  bio              : 
-  location         : "Office 651 PGH Building"
+  bio              : "Assisstant Prof."
+  location         : "Office 613 PGH building"
   employer         : "University of Houston"
   uri              : # URL
   email            : "chris.lutsko@uh.edu" 
 
   # Academic websites
-  arxiv            : 
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=5%2C31&sciodt=0%2C31&cites=13754600401406655328&scipsc=&q=Christopher+Lutsko&btnG="
   impactstory      : # URL
-  orcid            : 
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : 
+  github           : "chrislutsko"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -228,19 +228,18 @@ collections:
 
 
 # These settings control how pages and collections are included in the site
-# Defaults
 defaults:
   # _posts
- # - scope:
-  #    path: ""
-  #    type: posts
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    read_time: true
-  #    comments: true
-  #    share: true
-  #    related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -266,48 +265,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  - scope:
-      path: ""
-      type: links
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true   
-  # _art
-  - scope:
-      path: ""
-      type: art
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  - scope:
-      path: ""
-      type: links
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true    
   # _portfolio
- # - scope:
- #     path: ""
- #     type: portfolio
- #   values:
- #     layout: single
- #     author_profile: true
- #     share: true
- #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
- # - scope:
- #     path: ""
- #     type: talks
- #   values:
- #     layout: talk
- #     author_profile: true
- #     share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
@@ -377,3 +351,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
