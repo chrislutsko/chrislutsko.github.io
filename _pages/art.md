@@ -7,6 +7,6 @@ author_profile: true
 
 Other than mathematics, I sometimes make ceramic artwork. Here's some of the pieces I've made.
 
-![image info](pictures/image.png)
+![image info](pictures/Miles.jpg)
 
 
