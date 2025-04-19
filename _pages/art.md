@@ -8,8 +8,8 @@ author_profile: true
 Other than mathematics, I sometimes make ceramic artwork. Here's some of the pieces I've made.
 
 <img src="../images/Miles.jpg" alt="text" width="200"/>
-<img src="../images/Miles.jpg" alt="text" width="200"/>
-<img src="../images/Miles.jpg" alt="isolated" width="200"/>
-<img src="../images/Miles.jpg" alt="isolated" width="200"/>
+<img src="../images/Sally.jpg" alt="text" width="200"/>
+<img src="../images/Amy.jpg" alt="text" width="200"/>
+<img src="../images/Tim.jpg" alt="text" width="200"/>
 
 
