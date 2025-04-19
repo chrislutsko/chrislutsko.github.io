@@ -5,6 +5,8 @@ permalink: /art/
 author_profile: true
 ---
 
-***<u>Coming Soon</u>***
+Other than mathematics, I sometimes make ceramic artwork. Here's some of the pieces I've made.
+
+![image info](pictures/image.png)
 
 
