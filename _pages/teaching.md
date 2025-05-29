@@ -5,28 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Ongoing:
-*  None
+For prospective PhD students, please remember two things when applying to work with me: 
 
-## Past Teaching:
-
-### Spring 2023 (Rutgers):
-*  [Math 152](https://www.math.rutgers.edu/academics/undergraduate/courses/942-01-640-152-calculus-ii-for-the-mathematical-and-physical-sciences): Calculus II for math and physics.
-*  [Math 152](https://www.math.rutgers.edu/academics/undergraduate/courses/942-01-640-152-calculus-ii-for-the-mathematical-and-physical-sciences): Calculus II for math and physics.
-
-### Fall 2022 (Rutgers):
-*  [Math 356](https://math.rutgers.edu/academics/undergraduate/courses/965-01-640-356-theory-of-numbers): Theory of Numbers.
-
-### Spring 2022 (Rutgers):
-*  [Math 152](https://www.math.rutgers.edu/academics/undergraduate/courses/942-01-640-152-calculus-ii-for-the-mathematical-and-physical-sciences): Calculus II for math and physics.
-*  [Math 437](https://www.math.rutgers.edu/academics/undergraduate/courses/980-01-640-436-history-of-mathematics): History of Mathematics.
-
-### Fall 2021 (Rutgers):
-*  [Math 356](https://math.rutgers.edu/academics/undergraduate/courses/965-01-640-356-theory-of-numbers): Theory of Numbers.
-
-### Spring 2021 (Rutgers):
-*  [Math 152](https://www.math.rutgers.edu/academics/undergraduate/courses/942-01-640-152-calculus-ii-for-the-mathematical-and-physical-sciences): Calculus II for math and physics.
-*  [Math 356](https://math.rutgers.edu/academics/undergraduate/courses/965-01-640-356-theory-of-numbers): Theory of Numbers.
-
-### Fall 2020 (Rutgers):
-*  [Math 152](https://www.math.rutgers.edu/academics/undergraduate/courses/942-01-640-152-calculus-ii-for-the-mathematical-and-physical-sciences): Calculus II for math and physics.
+- In the US system graduate students enter without an advisor, this gives students time to find a suitable advisor. Please only apply to work with me if you are at least in your second year at UH.
+- Please do not send me a generic email. Show that you at least visited my website and wrote a new email.
