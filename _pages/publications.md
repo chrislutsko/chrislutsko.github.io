@@ -7,21 +7,23 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
-&nbsp;&nbsp;&nbsp;20\.   <b>Diffusion of the random Lorentz process in a magnetic field</b> w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), (2024), [[ArXiv](https://arxiv.org/abs/2411.03984)], [[pdf](../files/LutskoToth2024.pdf)].
+&nbsp;&nbsp;&nbsp;21\.   <b>The Gauss circle problem for Penrose tilings</b> w/ [A. Haynes](https://www.math.uh.edu/~haynes/), (2025), [[ArXiv](https://arxiv.org/abs/2512.21444)], [[pdf](../files/HaynesLutsko2025.pdf)].
 
-&nbsp;&nbsp;&nbsp;19\.   <b>Sign changes along geodesics of modular forms</b> w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
+&nbsp;&nbsp;&nbsp;20\.   <b>Sign changes along geodesics of modular forms</b> w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
 
-&nbsp;&nbsp;&nbsp;18\.   <b>Average variance bounds for integer points on the sphere</b>, (2024), [[ArXiv](https://arxiv.org/abs/2402.12822)], [[pdf](../files/Average_Sphere.pdf)].
+&nbsp;&nbsp;&nbsp;19\.   <b>Average variance bounds for integer points on the sphere</b>, (2024), [[ArXiv](https://arxiv.org/abs/2402.12822)], [[pdf](../files/Average_Sphere.pdf)].
 
-&nbsp;&nbsp;&nbsp;17\.   <b>Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces</b>, w/  [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https://www.uni-paderborn.de/person/45027), (2024), [[ArXiv](https://arxiv.org/abs/2402.02530)], [[pdf](../files/LWW2024.pdf)].
-
-&nbsp;&nbsp;&nbsp;16\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
+&nbsp;&nbsp;&nbsp;18\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
 
 
 
 ***<u>Publications:</u>***
 
-&nbsp;&nbsp;&nbsp;15\.   <b>An abstract spectral approach to horospherical equidistribution</b> (2022), (Under Revision <i> Nonlinearity </i>) [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
+&nbsp;&nbsp;&nbsp;17\.   <b>Diffusion of the random Lorentz process in a magnetic field</b>, w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>J. Math. Phys.  <b>66</b>(11), (Editor's Pick) </i> , (2025), [[Link](https://pubs.aip.org/aip/jmp/article-abstract/66/11/113302/3372183/Diffusion-of-the-random-Lorentz-process-in-a?redirectedFrom=fulltext)], [[ArXiv](https://arxiv.org/abs/2411.03984)], [[pdf](../files/LutskoToth2024.pdf)].
+
+&nbsp;&nbsp;&nbsp;16\.   <b>Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces</b>, w/  [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https://www.uni-paderborn.de/person/45027), (Accepted: <i> Duke Math. J.) (2024), [[ArXiv](https://arxiv.org/abs/2402.02530)], [[pdf](../files/LWW2024.pdf)].
+
+&nbsp;&nbsp;&nbsp;15\.   <b>An abstract spectral approach to horospherical equidistribution</b> (2022), (Accepted: <i> Nonlinearity </i>) [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
 
 &nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023) (Available online <i> J. Reine Angew. Math.</i>), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
 
@@ -31,9 +33,9 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;11\.   <b>$m$-Point correlations of the fractional parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) (Accepted: <i> Amer. J. of Math.</i>) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
 
-&nbsp;&nbsp;&nbsp;10\.   <b>Full poissonian local statistics of slowly growing sequences</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website) (2022) (Accepted: <i> Compos. Math.</i>) , [[ArXiv](https://arxiv.org/abs/2206.07809)], [[pdf](../files/Logarithmic_15_June.pdf)].
+&nbsp;&nbsp;&nbsp;10\.   <b>Full poissonian local statistics of slowly growing sequences</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website) <i> Compos. Math. <b>161</b>(1), 148-180</i>, (2025), [[Link](https://www.cambridge.org/core/journals/compositio-mathematica/article/full-poissonian-local-statistics-of-slowly-growing-sequences/4DE3FF4C0F9178835E162CECAD6FDCF4)], [[ArXiv](https://arxiv.org/abs/2206.07809)], [[pdf](../files/Logarithmic_15_June.pdf)].
 
-&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) <i>J. of the Assoc. Math. Res. <b>2</b>, 15-52 </i>, (2024) [[Link](https://jamathr.org/index.php/jamr/article/view/Vol-2Issue-1Paper-2)], ,  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
+&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b> w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) <i>J. of the Assoc. Math. Res. <b>2</b>, 15-52 </i>, (2024) [[Link](https://jamathr.org/index.php/jamr/article/view/Vol-2Issue-1Paper-2)],  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
 
 &nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b> w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), <i> J. Anal. Math. (Special edition dedicated to P. Sarnak) <b>151</b>, 171-179 </i>, (2023) [[Link](https://link.springer.com/article/10.1007/s11854-023-0322-z)], [[ArXiv](https://arxiv.org/abs/2210.13969)], [[pdf](../files/Exceptional_Spec.pdf)].
 
