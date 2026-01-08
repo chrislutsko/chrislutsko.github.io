@@ -23,13 +23,13 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;16\.   <b>Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces</b>, w/  [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https://www.uni-paderborn.de/person/45027), (Accepted: <i> Duke Math. J.) (2024), [[ArXiv](https://arxiv.org/abs/2402.02530)], [[pdf](../files/LWW2024.pdf)].
 
-&nbsp;&nbsp;&nbsp;15\.   <b>An abstract spectral approach to horospherical equidistribution</b> (2022), (Accepted: <i> Nonlinearity </i>) [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
+&nbsp;&nbsp;&nbsp;15\.   <b>An abstract spectral approach to horospherical equidistribution</b> <i> Nonlinearity <b>38</b>(10), 105014,</i> (2025) [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
 
-&nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), (2023) (Available online <i> J. Reine Angew. Math.</i>), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
+&nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), <i> J. Reine Angew. Math. <b> 2024</b>(812), 257-274</i>) (2024), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
 
-&nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b>, w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2023) (Accepted for publication: <i> Int. J. of Number Theory</i>) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
+&nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b>, w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/),  <i> Int. J. of Number Theory <b>20</b> (08), 2083-2098</i> (2024) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
 
-&nbsp;&nbsp;&nbsp;12\.   <b>These numbers look random but aren't, mathematicians prove</b> w/  (2024) <i> Scientific American </i> [[Link](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)].
+&nbsp;&nbsp;&nbsp;12\.   <b>These numbers look random but aren't, mathematicians prove</b>  (2024) <i> Scientific American </i> [[Link](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)].
 
 &nbsp;&nbsp;&nbsp;11\.   <b>$m$-Point correlations of the fractional parts of $\alpha n^\theta$</b> w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) (Accepted: <i> Amer. J. of Math.</i>) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
 
@@ -39,7 +39,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b> w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), <i> J. Anal. Math. (Special edition dedicated to P. Sarnak) <b>151</b>, 171-179 </i>, (2023) [[Link](https://link.springer.com/article/10.1007/s11854-023-0322-z)], [[ArXiv](https://arxiv.org/abs/2210.13969)], [[pdf](../files/Exceptional_Spec.pdf)].
 
-&nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website) (Available online: <i> J. of the Eur. Math. Soc. (JEMS)</i>) (2024), [[Link](https://ems.press/journals/jems/articles/14297682)], [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
+&nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b> w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website)  <i> J. of the Eur. Math. Soc. (JEMS)  <b>27</b>(10), 4069-4082 </i> (2024), [[Link](https://ems.press/journals/jems/articles/14297682)], [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
 
 &nbsp;&nbsp;&nbsp;6\.  <b>Long-range correlations of sequences modulo 1</b> <i>J. of Number Theory, <b>234</b>, 333-348 </i>, (2022) [[Link](https://www.sciencedirect.com/science/article/pii/S0022314X21002274)], [[ArXiv](https://arxiv.org/abs/2007.09292)], [[pdf](../files/Long_Range.pdf)].
 
