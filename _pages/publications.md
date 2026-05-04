@@ -15,11 +15,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;19\.   <b>Average variance bounds for integer points on the sphere</b>, (2024), [[ArXiv](https://arxiv.org/abs/2402.12822)], [[pdf](../files/Average_Sphere.pdf)].
 
-&nbsp;&nbsp;&nbsp;18\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
-
 
 
 ***<u>Publications:</u>***
+
+&nbsp;&nbsp;&nbsp;18\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (Acceptd: <i> Bull. London Math. Soc. <\i>) (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
 
 &nbsp;&nbsp;&nbsp;17\.   <b>Diffusion of the random Lorentz process in a magnetic field</b>, w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>J. Math. Phys.  <b>66</b>(11), (Editor's Pick) </i> , (2025), [[Link](https://pubs.aip.org/aip/jmp/article-abstract/66/11/113302/3372183/Diffusion-of-the-random-Lorentz-process-in-a?redirectedFrom=fulltext)], [[ArXiv](https://arxiv.org/abs/2411.03984)], [[pdf](../files/LutskoToth2024.pdf)].
 
