@@ -9,7 +9,7 @@ redirect_from:
 
 As of Fall 2024 I am an assistant professor at the University of Houston. 
 
-From 2023-24 I was a post-doc at the University of Zurich, where my mentor was [Alex Gorodnik](https://www.math.uzh.ch/gorodnik/). From 2020 to 2023 I was a Hill assistant professor at Rutgers university, my mentor was [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/).  Before that I received my PhD at the University of Bristol under the supervision of [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Bálint Tóth](https://sites.google.com/view/balint-toth-math/home)
+From 2023-24 I was a post-doc at the University of Zurich. From 2020 to 2023 I was a Hill assistant professor at Rutgers university.  Before that I received my PhD at the University of Bristol under the supervision of [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Bálint Tóth](https://sites.google.com/view/balint-toth-math/home)
 
 
 
