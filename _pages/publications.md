@@ -7,6 +7,8 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
+&nbsp;&nbsp;&nbsp;23\.   <b>Exceptional eigenvalue density for thin groups </b>, (2026), [[pdf](../files/PS_shadow_density.pdf)].
+
 &nbsp;&nbsp;&nbsp;22\.   <b>Poissonian correlations of $\alpha n^d \mod 1$</b> w/ [N. Rome](https://sites.google.com/view/nickrome) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2026), [[ArXiv](https://arxiv.org/pdf/2605.06974)], [[pdf](../files/LRT.pdf)].
 
 &nbsp;&nbsp;&nbsp;21\.   <b>The Gauss circle problem for Penrose tilings</b> w/ [A. Haynes](https://www.math.uh.edu/~haynes/), (2025), [[ArXiv](https://arxiv.org/abs/2512.21444)], [[pdf](../files/HaynesLutsko2025.pdf)].
