@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* articles with an asterisk are AI-assisted
+\* articles with an asterisk contain proofs derived with the assistance of AI.
 
 ***<u>Preprints:</u>***
 
