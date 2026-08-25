@@ -4,13 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* articles with an asterisk contain proofs derived with the assistance of AI.
 
 ***<u>Preprints:</u>***
 
-&nbsp;&nbsp;&nbsp;24\.\*   <b>Improved sup-norm bounds for locally symmetric spaces</b>, (2026), [[pdf](../files/sup_norm.pdf)].
+&nbsp;&nbsp;&nbsp;24\.   <b>Improved sup-norm bounds for locally symmetric spaces</b>, (2026), [[pdf](../files/sup_norm.pdf)].
 
-&nbsp;&nbsp;&nbsp;23\.\*   <b>Exceptional eigenvalue density for thin groups</b>, (2026), [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
+&nbsp;&nbsp;&nbsp;23\.   <b>Exceptional eigenvalue density for thin groups</b>, (2026), [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
 
 &nbsp;&nbsp;&nbsp;22\.   <b>Poissonian correlations of $\alpha n^d \mod 1$</b> w/ [N. Rome](https://sites.google.com/view/nickrome) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2026), [[ArXiv](https://arxiv.org/pdf/2605.06974)], [[pdf](../files/LRT.pdf)].
 
