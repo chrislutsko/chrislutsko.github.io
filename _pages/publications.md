@@ -7,6 +7,8 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
+&nbsp;&nbsp;&nbsp;25\.   <b>Poissonian pair correlation for the three-particle Sutherland model</b>, (2026), [[pdf](../files/Sutherland_PPC.pdf)].
+
 &nbsp;&nbsp;&nbsp;24\.   <b>Improved sup-norm bounds for locally symmetric spaces</b>, (2026), [[pdf](../files/sup_norm.pdf)].
 
 &nbsp;&nbsp;&nbsp;23\.   <b>Exceptional eigenvalue density for thin groups</b>, (2026), [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
