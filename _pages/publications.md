@@ -17,13 +17,13 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;21\.   <b>The Gauss circle problem for Penrose tilings</b> w/ [A. Haynes](https://www.math.uh.edu/~haynes/), (2025), [[ArXiv](https://arxiv.org/abs/2512.21444)], [[pdf](../files/HaynesLutsko2025.pdf)].
 
-&nbsp;&nbsp;&nbsp;20\.   <b>Sign changes along geodesics of modular forms</b> w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
-
-&nbsp;&nbsp;&nbsp;19\.   <b>Average variance bounds for integer points on the sphere</b>, (2024), [[ArXiv](https://arxiv.org/abs/2402.12822)], [[pdf](../files/Average_Sphere.pdf)].
+&nbsp;&nbsp;&nbsp;20\.   <b>Average variance bounds for integer points on the sphere</b>, (2024), [[ArXiv](https://arxiv.org/abs/2402.12822)], [[pdf](../files/Average_Sphere.pdf)].
 
 
 
 ***<u>Publications:</u>***
+
+&nbsp;&nbsp;&nbsp;19\.   <b>Sign changes along geodesics of modular forms</b> w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), (Accepted: J. Théor. Nombres Bordeaux) [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
 
 &nbsp;&nbsp;&nbsp;18\.   <b>Counting in lattice orbits </b>, w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (Accepted: <i> Bull. London Math. Soc. </i>) (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
 
