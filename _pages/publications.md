@@ -11,17 +11,17 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;24\.   <b>Improved sup-norm bounds for locally symmetric spaces</b>, (2026), [[pdf](../files/sup_norm.pdf)].
 
-&nbsp;&nbsp;&nbsp;23\.   <b>Exceptional eigenvalue density for thin groups</b>, (2026), [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
+&nbsp;&nbsp;&nbsp;23\.   <b>Poissonian correlations of $\alpha n^d \mod 1$</b> w/ [N. Rome](https://sites.google.com/view/nickrome) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2026), [[ArXiv](https://arxiv.org/pdf/2605.06974)], [[pdf](../files/LRT.pdf)].
 
-&nbsp;&nbsp;&nbsp;22\.   <b>Poissonian correlations of $\alpha n^d \mod 1$</b> w/ [N. Rome](https://sites.google.com/view/nickrome) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2026), [[ArXiv](https://arxiv.org/pdf/2605.06974)], [[pdf](../files/LRT.pdf)].
+&nbsp;&nbsp;&nbsp;22\.   <b>The Gauss circle problem for Penrose tilings</b> w/ [A. Haynes](https://www.math.uh.edu/~haynes/), (2025), [[ArXiv](https://arxiv.org/abs/2512.21444)], [[pdf](../files/HaynesLutsko2025.pdf)].
 
-&nbsp;&nbsp;&nbsp;21\.   <b>The Gauss circle problem for Penrose tilings</b> w/ [A. Haynes](https://www.math.uh.edu/~haynes/), (2025), [[ArXiv](https://arxiv.org/abs/2512.21444)], [[pdf](../files/HaynesLutsko2025.pdf)].
-
-&nbsp;&nbsp;&nbsp;20\.   <b>Average variance bounds for integer points on the sphere</b>, (2024), [[ArXiv](https://arxiv.org/abs/2402.12822)], [[pdf](../files/Average_Sphere.pdf)].
+&nbsp;&nbsp;&nbsp;21\.   <b>Average variance bounds for integer points on the sphere</b>, (2024), [[ArXiv](https://arxiv.org/abs/2402.12822)], [[pdf](../files/Average_Sphere.pdf)].
 
 
 
 ***<u>Publications:</u>***
+
+&nbsp;&nbsp;&nbsp;20\.   <b>Exceptional eigenvalue density for thin groups</b>, (2026), (Accepted: IMRN) [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
 
 &nbsp;&nbsp;&nbsp;19\.   <b>Sign changes along geodesics of modular forms</b> w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), (Accepted: J. Théor. Nombres Bordeaux) [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
 
