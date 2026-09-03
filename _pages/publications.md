@@ -7,6 +7,8 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
+&nbsp;&nbsp;&nbsp;26\.   <b>Loss of memory in the periodic Ehrenfest model with small polyhedral scatterers</b>, (2026), [[pdf](../files/Ehrenfest_periodic.pdf)].
+
 &nbsp;&nbsp;&nbsp;25\.   <b>Poissonian pair correlation for the three-particle Sutherland model</b>, (2026), [[pdf](../files/Sutherland_PPC.pdf)].
 
 &nbsp;&nbsp;&nbsp;24\.   <b>Improved sup-norm bounds for locally symmetric spaces</b>, (2026), [[pdf](../files/sup_norm.pdf)].
