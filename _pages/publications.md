@@ -23,17 +23,17 @@ author_profile: true
 
 ***<u>Publications:</u>***
 
-&nbsp;&nbsp;&nbsp;20\.   <b>Exceptional eigenvalue density for thin groups</b>, (2026),
-<br> &nbsp;&nbsp;&nbsp; (Accepted: IMRN) [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
+&nbsp;&nbsp;&nbsp;20\.   <b>Exceptional eigenvalue density for thin groups</b>, 
+<br> &nbsp;&nbsp;&nbsp; (Accepted: <i> IMRN </i>), (2026) [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
 
-&nbsp;&nbsp;&nbsp;19\.   <b>Sign changes along geodesics of modular forms</b> (2024),
-<br> &nbsp;&nbsp;&nbsp;  w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (Accepted: J. Théor. Nombres Bordeaux) [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
+&nbsp;&nbsp;&nbsp;19\.   <b>Sign changes along geodesics of modular forms</b>,
+<br> &nbsp;&nbsp;&nbsp;  w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (Accepted: J. Théor. Nombres Bordeaux), (2024), [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
 
-&nbsp;&nbsp;&nbsp;18\.   <b>Counting in lattice orbits </b>, (2024),
-<br> &nbsp;&nbsp;&nbsp; w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (Accepted: <i> Bull. London Math. Soc. </i>), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
+&nbsp;&nbsp;&nbsp;18\.   <b>Counting in lattice orbits </b>,
+<br> &nbsp;&nbsp;&nbsp; w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (Accepted: <i> Bull. London Math. Soc. </i>), (2024), [[ArXiv](https://arxiv.org/abs/2401.07740)],  [[pdf](../files/Orbit_Count.pdf)].
 
-&nbsp;&nbsp;&nbsp;17\.   <b>Diffusion of the random Lorentz process in a magnetic field</b>, (2025)
-<br> &nbsp;&nbsp;&nbsp; w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>J. Math. Phys.  <b>66</b>(11), (Editor's Pick) </i> , [[Link](https://pubs.aip.org/aip/jmp/article-abstract/66/11/113302/3372183/Diffusion-of-the-random-Lorentz-process-in-a?redirectedFrom=fulltext)], [[ArXiv](https://arxiv.org/abs/2411.03984)], [[pdf](../files/LutskoToth2024.pdf)].
+&nbsp;&nbsp;&nbsp;17\.   <b>Diffusion of the random Lorentz process in a magnetic field</b>, 
+<br> &nbsp;&nbsp;&nbsp; w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>J. Math. Phys.  <b>66</b>(11), (2025), (Editor's Pick) </i> , [[Link](https://pubs.aip.org/aip/jmp/article-abstract/66/11/113302/3372183/Diffusion-of-the-random-Lorentz-process-in-a?redirectedFrom=fulltext)], [[ArXiv](https://arxiv.org/abs/2411.03984)], [[pdf](../files/LutskoToth2024.pdf)].
 
 &nbsp;&nbsp;&nbsp;16\.   <b>Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces</b>,
 <br> &nbsp;&nbsp;&nbsp; w/  [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https://www.uni-paderborn.de/person/45027), (Accepted: <i> Duke Math. J.</i>) (2024), [[ArXiv](https://arxiv.org/abs/2402.02530)], [[pdf](../files/LWW2024.pdf)].
