@@ -24,7 +24,7 @@ author_profile: true
 ***<u>Publications:</u>***
 
 &nbsp;&nbsp;&nbsp;20\.   <b>Exceptional eigenvalue density for thin groups</b>,(2026)
-(Accepted: IMRN) [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
+<br>(Accepted: IMRN) [[ArXiv](https://arxiv.org/abs/2608.18236)], [[pdf](../files/PS_shadow_density.pdf)].
 
 &nbsp;&nbsp;&nbsp;19\.   <b>Sign changes along geodesics of modular forms</b> w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2024), (Accepted: J. Théor. Nombres Bordeaux) [[ArXiv](https://arxiv.org/abs/2409.17248)], [[pdf](../files/Sign_Changes.pdf)].
 
