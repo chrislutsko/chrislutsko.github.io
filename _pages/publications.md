@@ -9,9 +9,9 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;26\.   <b>Loss of memory in the periodic Ehrenfest model with small polyhedral scatterers</b>, w/ [J. Marklof](https://people.maths.bris.ac.uk/~majm/), (2026), [[pdf](../files/Ehrenfest_periodic.pdf)].
 
-&nbsp;&nbsp;&nbsp;25\.   <b>Poissonian pair correlation for the three-particle Sutherland model</b>, (2026), [[pdf](../files/Sutherland_PPC.pdf)].
+&nbsp;&nbsp;&nbsp;25\.   <b>Poissonian pair correlation for the three-particle Sutherland model</b>, (2026), [[ArXiv](https://arxiv.org/abs/2609.03112)] [[pdf](../files/Sutherland_PPC.pdf)].
 
-&nbsp;&nbsp;&nbsp;24\.   <b>Improved sup-norm bounds for locally symmetric spaces</b>, (2026), [[pdf](../files/sup_norm.pdf)].
+&nbsp;&nbsp;&nbsp;24\.   <b>Improved sup-norm bounds for locally symmetric spaces</b>, (2026), [[ArXiv](https://arxiv.org/abs/2608.21580)] [[pdf](../files/sup_norm.pdf)].
 
 &nbsp;&nbsp;&nbsp;23\.   <b>Poissonian correlations of $\alpha n^d \mod 1$</b> w/ [N. Rome](https://sites.google.com/view/nickrome) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2026), [[ArXiv](https://arxiv.org/pdf/2605.06974)], [[pdf](../files/LRT.pdf)].
 
