@@ -13,9 +13,9 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;24\.   <b>Improved sup-norm bounds for locally symmetric spaces</b>, (2026), [[ArXiv](https://arxiv.org/abs/2608.21580)] [[pdf](../files/sup_norm.pdf)].
 
-&nbsp;&nbsp;&nbsp;23\.   <b>Poissonian correlations of $\alpha n^d \mod 1$</b> w/ [N. Rome](https://sites.google.com/view/nickrome) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2026), [[ArXiv](https://arxiv.org/pdf/2605.06974)], [[pdf](../files/LRT.pdf)].
+&nbsp;&nbsp;&nbsp;23\.   <b>Poissonian correlations of $\alpha n^d \mod 1$</b>, w/ [N. Rome](https://sites.google.com/view/nickrome) and [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2026), [[ArXiv](https://arxiv.org/pdf/2605.06974)], [[pdf](../files/LRT.pdf)].
 
-&nbsp;&nbsp;&nbsp;22\.   <b>The Gauss circle problem for Penrose tilings</b> w/ [A. Haynes](https://www.math.uh.edu/~haynes/), (2025), [[ArXiv](https://arxiv.org/abs/2512.21444)], [[pdf](../files/HaynesLutsko2025.pdf)].
+&nbsp;&nbsp;&nbsp;22\.   <b>The Gauss circle problem for Penrose tilings</b>, w/ [A. Haynes](https://www.math.uh.edu/~haynes/), (2025), [[ArXiv](https://arxiv.org/abs/2512.21444)], [[pdf](../files/HaynesLutsko2025.pdf)].
 
 &nbsp;&nbsp;&nbsp;21\.   <b>Average variance bounds for integer points on the sphere</b>, (2024), [[ArXiv](https://arxiv.org/abs/2402.12822)], [[pdf](../files/Average_Sphere.pdf)].
 
@@ -38,11 +38,11 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;16\.   <b>Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces</b>,
 <br> &nbsp;&nbsp;&nbsp; w/  [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https://www.uni-paderborn.de/person/45027), (Accepted: <i> Duke Math. J.</i>) (2024), [[ArXiv](https://arxiv.org/abs/2402.02530)], [[pdf](../files/LWW2024.pdf)].
 
-&nbsp;&nbsp;&nbsp;15\.   <b>An abstract spectral approach to horospherical equidistribution</b> 
+&nbsp;&nbsp;&nbsp;15\.   <b>An abstract spectral approach to horospherical equidistribution</b>,
 <br> &nbsp;&nbsp;&nbsp; <i> Nonlinearity <b>38</b>(10), 105014,</i> (2025) [[ArXiv](https://arxiv.org/abs/2211.01900)], [[pdf](../files/Effective_Horocycles.pdf)].
 
 &nbsp;&nbsp;&nbsp;14\.   <b>Hyperbolic lattice point counting in unbounded rank</b>, 
-<br> &nbsp;&nbsp;&nbsp; w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), <i> J. Reine Angew. Math. <b> 2024</b>(812), 257-274</i>) (2024), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
+<br> &nbsp;&nbsp;&nbsp; w/  [V. Blomer](https://www.math.uni-bonn.de/people/blomer/), <i> J. Reine Angew. Math. <b> 2024</b> (812), 257-274</i> (2024), [[Link](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html)],  [[ArXiv](https://arxiv.org/abs/2309.00522)], [[pdf](../files/hyperbolic-counting-final.pdf)].
 
 &nbsp;&nbsp;&nbsp;13\.   <b>Mean square bounds on Eisenstein series</b>, 
 <br> &nbsp;&nbsp;&nbsp; w/ [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/),  <i> Int. J. of Number Theory <b>20</b> (08), 2083-2098</i> (2024) [[ArXiv](https://arxiv.org/abs/2305.15162)], [[pdf](../files/Mean_Square_Eisenstein.pdf)].
@@ -50,44 +50,44 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;12\.   <b>These numbers look random but aren't, mathematicians prove</b>,
 <br> &nbsp;&nbsp;&nbsp; (2024) <i> Scientific American </i> [[Link](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)].
 
-&nbsp;&nbsp;&nbsp;11\.   <b>$m$-Point correlations of the fractional parts of $\alpha n^\theta$</b>
+&nbsp;&nbsp;&nbsp;11\.   <b>$m$-Point correlations of the fractional parts of $\alpha n^\theta$</b>,
 <br> &nbsp;&nbsp;&nbsp; w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website), (2021) (Accepted: <i> Amer. J. of Math.</i>) [[ArXiv](https://arxiv.org/abs/2112.11524)], [[pdf](../files/Higher.pdf)].
 
-&nbsp;&nbsp;&nbsp;10\.   <b>Full poissonian local statistics of slowly growing sequences</b>
+&nbsp;&nbsp;&nbsp;10\.   <b>Full poissonian local statistics of slowly growing sequences</b>,
 <br> &nbsp;&nbsp;&nbsp; w/  [N. Technau](https://sites.google.com/view/niclas-technaus-website) <i> Compos. Math. <b>161</b>(1), 148-180</i>, (2025), [[Link](https://www.cambridge.org/core/journals/compositio-mathematica/article/full-poissonian-local-statistics-of-slowly-growing-sequences/4DE3FF4C0F9178835E162CECAD6FDCF4)], [[ArXiv](https://arxiv.org/abs/2206.07809)], [[pdf](../files/Logarithmic_15_June.pdf)].
 
-&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b>
+&nbsp;&nbsp;&nbsp;9\.   <b>Effective counting in sphere packings</b>,
 <br> &nbsp;&nbsp;&nbsp; w/  [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), (2022) <i>J. of the Assoc. Math. Res. <b>2</b>, 15-52 </i>, (2024) [[Link](https://jamathr.org/index.php/jamr/article/view/Vol-2Issue-1Paper-2)],  [[ArXiv](https://arxiv.org/abs/2205.13004)], [[pdf](../files/KontorovichLutsko2022.pdf)].
 
-&nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b>
+&nbsp;&nbsp;&nbsp;8\.   <b>Sarnak's spectral gap question</b>,
 <br> &nbsp;&nbsp;&nbsp; w/  [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/), and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/), <i> J. Anal. Math. (Special edition dedicated to P. Sarnak) <b>151</b>, 171-179 </i>, (2023) [[Link](https://link.springer.com/article/10.1007/s11854-023-0322-z)], [[ArXiv](https://arxiv.org/abs/2210.13969)], [[pdf](../files/Exceptional_Spec.pdf)].
 
-&nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b> 
+&nbsp;&nbsp;&nbsp;7\.   <b>Pair correlation of the fractional parts of $\alpha n^\theta$</b>, 
 <br> &nbsp;&nbsp;&nbsp; w/ [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/), and [N. Technau](https://sites.google.com/view/niclas-technaus-website)  <i> J. of the Eur. Math. Soc. (JEMS)  <b>27</b>(10), 4069-4082 </i> (2024), [[Link](https://ems.press/journals/jems/articles/14297682)], [[ArXiv](https://arxiv.org/abs/2106.09800)], [[pdf](../files/Theta.pdf)].
 
-&nbsp;&nbsp;&nbsp;6\.  <b>Long-range correlations of sequences modulo 1</b>
+&nbsp;&nbsp;&nbsp;6\.  <b>Long-range correlations of sequences modulo 1</b>,
 <br> &nbsp;&nbsp;&nbsp; <i>J. of Number Theory, <b>234</b>, 333-348 </i>, (2022) [[Link](https://www.sciencedirect.com/science/article/pii/S0022314X21002274)], [[ArXiv](https://arxiv.org/abs/2007.09292)], [[pdf](../files/Long_Range.pdf)].
 
-&nbsp;&nbsp;&nbsp;5\.  <b>Farey sequences for thin groups.</b> 
+&nbsp;&nbsp;&nbsp;5\.  <b>Farey sequences for thin groups</b>, 
 <br> &nbsp;&nbsp;&nbsp; <i> Int. Math. Res. Not. (IMRN), <b>15</b>, 11642-11689 </i>, (2022) [[Link](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnab036/6226703?guestAccessKey=2eae1952-4414-47c3-ab69-a5011548af65)], [[ArXiv](https://arxiv.org/abs/1907.01854)], [[pdf](../files/Farey.pdf)].
 
-&nbsp;&nbsp;&nbsp;4\.  <b>Invariance principle for the random wind-tree process</b>
+&nbsp;&nbsp;&nbsp;4\.  <b>Invariance principle for the random wind-tree process</b>,
 <br> &nbsp;&nbsp;&nbsp; w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>Ann. Henri Poincaré, <b>22</b>(10), 3357-3389 </i> (2021) [[Link](https://link.springer.com/article/10.1007/s00023-021-01106-4?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20210907)],[[ArXiv](https://arxiv.org/abs/1912.02492)], [[pdf](../files/Wind-Tree.pdf)].
 
-&nbsp;&nbsp;&nbsp;3\.  <b>Invariance principle for the random Lorentz gas—beyond the Boltzmann-Grad limit</b>
+&nbsp;&nbsp;&nbsp;3\.  <b>Invariance principle for the random Lorentz gas—beyond the Boltzmann-Grad limit</b>,
 <br> &nbsp;&nbsp;&nbsp; w/ [B. Tóth](https://sites.google.com/view/balint-toth-math/), <i>Comm. in Math. Phys., <b> 379 </b>, 589–632 </i> (2020) [[Link](https://link.springer.com/article/10.1007/s00220-020-03852-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)], [[ArXiv](https://arxiv.org/abs/1812.11325)], [[pdf](../files/Lorentz_Gas.pdf)].
 
-&nbsp;&nbsp;&nbsp;2\.  <b>Directions in orbits of geometrically finite hyperbolic subgroups.</b>
+&nbsp;&nbsp;&nbsp;2\.  <b>Directions in orbits of geometrically finite hyperbolic subgroups</b>,
 <br> &nbsp;&nbsp;&nbsp; <i>Math. Proc. of the Cambridge Phil. Soc. <b> 171 </b>(2), 277-316 </i> (2020) [[Link](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/directions-in-orbits-of-geometrically-finite-hyperbolic-subgroups/62E5FC227B848B7BCD59FD116BE32627)], [[ArXiv](https://arxiv.org/abs/1811.11054)], [[pdf](../files/Directions.pdf)].
 
 
-&nbsp;&nbsp;&nbsp;1\.  <b>Microscopic approach to nonlinear reaction-diffusion: The case of morphogen gradient formation.
-<br> &nbsp;&nbsp;&nbsp; </b> w/ [J. P. Boon](http://homepages.ulb.ac.be/~jpboon/), and [J. F. Lutsko](http://www.lutsko.com/), <i>Phys. Rev. E, <b> 85 </b>, 021126 </i> (2012) [[Link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.021126)], [[ArXiv](https://arxiv.org/abs/1110.5463)], [[pdf](../files/Nonlinear_RD.pdf)].
+&nbsp;&nbsp;&nbsp;1\.  <b>Microscopic approach to nonlinear reaction-diffusion: The case of morphogen gradient formation</b>,
+<br> &nbsp;&nbsp;&nbsp;  w/ [J. P. Boon](http://homepages.ulb.ac.be/~jpboon/), and [J. F. Lutsko](http://www.lutsko.com/), <i>Phys. Rev. E, <b> 85 </b>, 021126 </i> (2012) [[Link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.021126)], [[ArXiv](https://arxiv.org/abs/1110.5463)], [[pdf](../files/Nonlinear_RD.pdf)].
 
 
 ***<u>PhD Thesis:</u>***
 
- <b>Statistical properties of dynamical systems: from statistical mechanics to hyperbolic geometry</b> <i>University of Bristol </i>, (2020), [[Link](https://research-information.bris.ac.uk/en/studentTheses/statistical-properties-of-dynamical-systems)], [[pdf](../files/Thesis_Corrections.pdf)].
+ <b>Statistical properties of dynamical systems: from statistical mechanics to hyperbolic geometry</b>, <i>University of Bristol </i>, (2020), [[Link](https://research-information.bris.ac.uk/en/studentTheses/statistical-properties-of-dynamical-systems)], [[pdf](../files/Thesis_Corrections.pdf)].
  
 ***<u>Conference Proceedings:</u>***
 
