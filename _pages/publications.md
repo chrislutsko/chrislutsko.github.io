@@ -7,6 +7,8 @@ author_profile: true
 
 ***<u>Preprints:</u>***
 
+&nbsp;&nbsp;&nbsp;27\.   <b>Spherical density for real semisimple groups</b>, (2026), [[pdf](../files/Spherical_density.pdf)].
+
 &nbsp;&nbsp;&nbsp;26\.   <b>Loss of memory in the periodic Ehrenfest model with small polyhedral scatterers</b>, w/ [J. Marklof](https://people.maths.bris.ac.uk/~majm/), (2026), [[pdf](../files/Ehrenfest_periodic.pdf)].
 
 &nbsp;&nbsp;&nbsp;25\.   <b>Poissonian pair correlation for the three-particle Sutherland model</b>, (2026), [[ArXiv](https://arxiv.org/abs/2609.03112)] [[pdf](../files/Sutherland_PPC.pdf)].
