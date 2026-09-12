@@ -15,6 +15,8 @@ Much of my work concerns spectral questions in arithmetic and dynamics, includin
 
 ## Selected work
 
+- **Spherical density for real semisimple groups**. Preprint (2026). [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
+
 - **Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces**, with Tobias Weich and Lasse Wolf. *Duke Mathematical Journal*, accepted. [arXiv](https://arxiv.org/abs/2402.02530) · [PDF]({{ '/files/LWW2024.pdf' | relative_url }})
 
 - **Pair correlation of the fractional parts of $\alpha n^\theta$**, with Athanasios Sourmelidis and Niclas Technau. *Journal of the European Mathematical Society* **27** (2024), 4069–4082. [Journal](https://ems.press/journals/jems/articles/14297682) · [arXiv](https://arxiv.org/abs/2106.09800)
