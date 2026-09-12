@@ -132,10 +132,25 @@ body {
 }
 
 .publications .archive > p {
-  margin-bottom: 1rem;
-  padding-bottom: 1rem;
+  margin-bottom: 0.55rem;
+  padding-bottom: 0.55rem;
   border-bottom: 1px solid #edf1f4;
-  line-height: 1.55;
+  line-height: 1.4;
+}
+
+.publications .archive > p > strong:first-child,
+.publications .archive > ol > li > strong:first-child {
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+  text-decoration-thickness: 1px;
+}
+
+.publications .archive em {
+  font-weight: 700;
+}
+
+.publications .archive h2 {
+  margin-top: 1.4em;
 }
 
 .publications .archive > p:last-of-type {
