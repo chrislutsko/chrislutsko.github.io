@@ -5,10 +5,11 @@ permalink: /art/
 author_profile: true
 ---
 
-Other than mathematics, I sometimes make ceramic artwork. I'm particularly fond of playing with alternative firing methods. Here's some of the pieces I've made. To see more go [here](https://www.clutskoart.com)
+Outside mathematics, I make ceramic art and particularly enjoy experimenting with alternative firing methods. More of my work is available at [clutskoart.com](https://www.clutskoart.com).
 
-<img src="../images/Series_2_2.jpg" alt="text" width="200"/>
-<img src="../images/Series_2_1.jpg" alt="text" width="200"/>
-<img src="../images/Series_1_last.jpeg" alt="text" width="200"/>
-
+<div class="art-grid">
+  <img src="{{ '/images/Series_2_2.jpg' | relative_url }}" alt="Ceramic artwork by Chris Lutsko" loading="lazy">
+  <img src="{{ '/images/Series_2_1.jpg' | relative_url }}" alt="Ceramic artwork by Chris Lutsko" loading="lazy">
+  <img src="{{ '/images/Series_1_last.jpeg' | relative_url }}" alt="Ceramic artwork by Chris Lutsko" loading="lazy">
+</div>
 

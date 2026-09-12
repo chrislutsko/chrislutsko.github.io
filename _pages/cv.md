@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-A full academic cv can be found [here](../files/c_Lutsko_cv.pdf) (last updated: 24 April 2026).
+[Download my academic CV]({{ '/files/c_Lutsko_cv.pdf' | relative_url }})
+
+Last updated 3 September 2026.
