@@ -68,7 +68,7 @@ With [N. Technau](https://sites.google.com/view/niclas-technaus-website). *Compo
 With [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *J. Assoc. Math. Res.* **2**, 15–52 (2024) · [Journal](https://jamathr.org/index.php/jamr/article/view/Vol-2Issue-1Paper-2) · [arXiv](https://arxiv.org/abs/2205.13004) · [PDF]({{ '/files/KontorovichLutsko2022.pdf' | relative_url }})
 
 **8. Sarnak's spectral gap question.**<br>
-With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *J. Anal. Math.* **151**, 171–179 (2023) · [Journal](https://link.springer.com/article/10.1007/s11854-023-0322-z) · [arXiv](https://arxiv.org/abs/2210.13969) · [PDF]({{ '/files/Exceptional_Spec.pdf' | relative_url }})
+With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *J. Anal. Math.* **151**, (special volume dedicated to Peter Sarnak) 171–179 (2023) · [Journal](https://link.springer.com/article/10.1007/s11854-023-0322-z) · [arXiv](https://arxiv.org/abs/2210.13969) · [PDF]({{ '/files/Exceptional_Spec.pdf' | relative_url }})
 
 **7. Pair correlation of the fractional parts of $\alpha n^\theta$.**<br>
 With [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/) and [N. Technau](https://sites.google.com/view/niclas-technaus-website). *J. Eur. Math. Soc.* **27**(10), 4069–4082 (2024) · [Journal](https://ems.press/journals/jems/articles/14297682) · [arXiv](https://arxiv.org/abs/2106.09800) · [PDF]({{ '/files/Theta.pdf' | relative_url }})
