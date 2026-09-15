@@ -12,7 +12,7 @@ classes: publications
 (2026) · [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
 
 **26. Loss of memory in the periodic Ehrenfest model with small polyhedral scatterers.**<br>
-With [J. Marklof](https://people.maths.bris.ac.uk/~majm/) (2026) · [PDF]({{ '/files/Ehrenfest_periodic.pdf' | relative_url }})
+With [J. Marklof](https://people.maths.bris.ac.uk/~majm/) (2026) · [arXiv](https://arxiv.org/abs/2609.04371) · [PDF]({{ '/files/Ehrenfest_periodic.pdf' | relative_url }})
 
 **25. Poissonian pair correlation for the three-particle Sutherland model.**<br>
 (2026) · [arXiv](https://arxiv.org/abs/2609.03112) · [PDF]({{ '/files/Sutherland_PPC.pdf' | relative_url }})
