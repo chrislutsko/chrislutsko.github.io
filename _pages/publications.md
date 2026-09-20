@@ -59,7 +59,7 @@ With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovi
 *Scientific American* (2024) · [Article](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)
 
 **11. $m$-point correlations of the fractional parts of $\alpha n^\theta$.**<br>
-With [N. Technau](https://sites.google.com/view/niclas-technaus-website). Accepted in *Amer. J. Math.* (2021) · [arXiv](https://arxiv.org/abs/2112.11524) · [PDF]({{ '/files/Higher.pdf' | relative_url }})
+With [N. Technau](https://sites.google.com/view/niclas-technaus-website). *Amer. J. Math.* **148**(2), 569–597 (2026) · [arXiv](https://arxiv.org/abs/2112.11524) · [PDF]({{ '/files/Higher.pdf' | relative_url }})
 
 **10. Full Poissonian local statistics of slowly growing sequences.**<br>
 With [N. Technau](https://sites.google.com/view/niclas-technaus-website). *Compos. Math.* **161**(1), 148–180 (2025) · [Journal](https://www.cambridge.org/core/journals/compositio-mathematica/article/full-poissonian-local-statistics-of-slowly-growing-sequences/4DE3FF4C0F9178835E162CECAD6FDCF4) · [arXiv](https://arxiv.org/abs/2206.07809) · [PDF]({{ '/files/Logarithmic_15_June.pdf' | relative_url }})
