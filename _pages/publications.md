@@ -32,7 +32,7 @@ With [A. Haynes](https://www.math.uh.edu/~haynes/) (2025) · [arXiv](https://arx
 ## Publications
 
 **20. Exceptional eigenvalue density for thin groups.**<br>
-Accepted in *IMRN* (2026) · [arXiv](https://arxiv.org/abs/2608.18236) · [PDF]({{ '/files/PS_shadow_density.pdf' | relative_url }})
+*Int. Math. Res. Not.* **2026**(18), rnag208 (2026) · [Journal](https://academic.oup.com/imrn/article-abstract/2026/18/rnag208/8825405) · [arXiv](https://arxiv.org/abs/2608.18236) · [PDF]({{ '/files/PS_shadow_density.pdf' | relative_url }})
 
 **19. Sign changes along geodesics of modular forms.**<br>
 With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). Accepted in *J. Théor. Nombres Bordeaux* (2024) · [arXiv](https://arxiv.org/abs/2409.17248) · [PDF]({{ '/files/Sign_Changes.pdf' | relative_url }})
