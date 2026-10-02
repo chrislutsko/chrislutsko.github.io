@@ -15,7 +15,7 @@ Much of my work concerns spectral questions in arithmetic and dynamics, includin
 
 ## Selected work
 
-- **Spherical density for real semisimple groups**. Preprint (2026). [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
+- **Spherical density for real semisimple groups**. Preprint (2026). [arXiv](https://arxiv.org/abs/2610.00298) · [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
 
 - **Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces**, with Tobias Weich and Lasse Wolf. *Duke Mathematical Journal*, accepted. [arXiv](https://arxiv.org/abs/2402.02530) · [PDF]({{ '/files/LWW2024.pdf' | relative_url }})
 

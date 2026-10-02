@@ -9,7 +9,7 @@ classes: publications
 ## Preprints
 
 **27. Spherical density for real semisimple groups.**<br>
-(2026) · [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
+(2026) · [arXiv](https://arxiv.org/abs/2610.00298) · [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
 
 **26. Loss of memory in the periodic Ehrenfest model with small polyhedral scatterers.**<br>
 With [J. Marklof](https://people.maths.bris.ac.uk/~majm/) (2026) · [arXiv](https://arxiv.org/abs/2609.04371) · [PDF]({{ '/files/Ehrenfest_periodic.pdf' | relative_url }})
