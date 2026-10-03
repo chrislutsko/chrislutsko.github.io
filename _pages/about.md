@@ -30,3 +30,5 @@ Much of my work concerns spectral questions in arithmetic and dynamics, includin
 Before joining Houston in 2024, I was a postdoctoral researcher at the University of Zurich (2023–24) and a Hill Assistant Professor at Rutgers University (2020–23). I received my PhD from the University of Bristol under the supervision of [Jens Marklof](https://people.maths.bris.ac.uk/~majm/home.html) and [Bálint Tóth](https://sites.google.com/view/balint-toth-math/home).
 
 For a nontechnical introduction to one aspect of my work, see my [Scientific American article](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/) (Es gibt auch eine Übersetzung unter [Spektrum der Wissenschaft](https://www.spektrum.de/news/zwei-mathematiker-erzeugen-die-zufaelligsten-folgen-der-welt/2205985)).
+
+My research is supported in part by a Simons Foundation Travel Support for Mathematicians grant.
