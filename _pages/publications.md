@@ -8,6 +8,9 @@ classes: publications
 
 ## Preprints
 
+**28. Spacing statistics for a point scatterer on the cubic three-torus.**<br>
+(2026) · [PDF]({{ '/files/Seba_fine_v38.pdf' | relative_url }})
+
 **27. Spherical density for real semisimple groups.**<br>
 (2026) · [arXiv](https://arxiv.org/abs/2610.00298) · [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
 
