@@ -44,25 +44,25 @@ With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovi
 With [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *Bull. London Math. Soc.* **58**(5), e70391 (2026) · [Journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70391) · [arXiv](https://arxiv.org/abs/2401.07740) · [PDF]({{ '/files/Orbit_Count.pdf' | relative_url }})
 
 **17. Diffusion of the random Lorentz process in a magnetic field.**<br>
-With [B. Tóth](https://sites.google.com/view/balint-toth-math/). *J. Math. Phys.* **66**(11) (2025), Editor's Pick · [Journal](https://pubs.aip.org/aip/jmp/article-abstract/66/11/113302/3372183/Diffusion-of-the-random-Lorentz-process-in-a?redirectedFrom=fulltext) · [arXiv](https://arxiv.org/abs/2411.03984) · [PDF]({{ '/files/LutskoToth2024.pdf' | relative_url }})
+With [B. Tóth](https://sites.google.com/view/balint-toth-math/). *J. Math. Phys.* **66**(11), 113302 (2025), Editor's Pick · [Journal](https://pubs.aip.org/aip/jmp/article-abstract/66/11/113302/3372183/Diffusion-of-the-random-Lorentz-process-in-a?redirectedFrom=fulltext) · [arXiv](https://arxiv.org/abs/2411.03984) · [PDF]({{ '/files/LutskoToth2024.pdf' | relative_url }})
 
 **16. Polyhedral bounds on the joint spectrum and temperedness of locally symmetric spaces.**<br>
 With [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https://www.uni-paderborn.de/person/45027). Accepted in *Duke Math. J.* (2024) · [arXiv](https://arxiv.org/abs/2402.02530) · [PDF]({{ '/files/LWW2024.pdf' | relative_url }})
 
 **15. An abstract spectral approach to horospherical equidistribution.**<br>
-*Nonlinearity* **38**(10), 105014 (2025) · [arXiv](https://arxiv.org/abs/2211.01900) · [PDF]({{ '/files/Effective_Horocycles.pdf' | relative_url }})
+*Nonlinearity* **38**(10), 105014 (2025) · [Journal](https://doi.org/10.1088/1361-6544/ae11ee) · [arXiv](https://arxiv.org/abs/2211.01900) · [PDF]({{ '/files/Effective_Horocycles.pdf' | relative_url }})
 
 **14. Hyperbolic lattice point counting in unbounded rank.**<br>
 With [V. Blomer](https://www.math.uni-bonn.de/people/blomer/). *J. Reine Angew. Math.* **2024**(812), 257–274 (2024) · [Journal](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html) · [arXiv](https://arxiv.org/abs/2309.00522) · [PDF]({{ '/files/hyperbolic-counting-final.pdf' | relative_url }})
 
-**13. Mean square bounds on Eisenstein series.**<br>
-With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *Int. J. Number Theory* **20**(8), 2083–2098 (2024) · [arXiv](https://arxiv.org/abs/2305.15162) · [PDF]({{ '/files/Mean_Square_Eisenstein.pdf' | relative_url }})
+**13. Norm bounds on Eisenstein series.**<br>
+With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *Int. J. Number Theory* **20**(8), 2083–2098 (2024) · [Journal](https://doi.org/10.1142/S1793042124501021) · [arXiv](https://arxiv.org/abs/2305.15162) · [PDF]({{ '/files/Mean_Square_Eisenstein.pdf' | relative_url }})
 
 **12. These numbers look random but aren't, mathematicians prove.**<br>
 *Scientific American* (2024) · [Article](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)
 
 **11. $m$-point correlations of the fractional parts of $\alpha n^\theta$.**<br>
-With [N. Technau](https://sites.google.com/view/niclas-technaus-website). *Amer. J. Math.* **148**(2), 569–597 (2026) · [arXiv](https://arxiv.org/abs/2112.11524) · [PDF]({{ '/files/Higher.pdf' | relative_url }})
+With [N. Technau](https://sites.google.com/view/niclas-technaus-website). *Amer. J. Math.* **148**(2), 569–597 (2026) · [Journal](https://doi.org/10.1353/ajm.2026.a986600) · [arXiv](https://arxiv.org/abs/2112.11524) · [PDF]({{ '/files/Higher.pdf' | relative_url }})
 
 **10. Full Poissonian local statistics of slowly growing sequences.**<br>
 With [N. Technau](https://sites.google.com/view/niclas-technaus-website). *Compos. Math.* **161**(1), 148–180 (2025) · [Journal](https://www.cambridge.org/core/journals/compositio-mathematica/article/full-poissonian-local-statistics-of-slowly-growing-sequences/4DE3FF4C0F9178835E162CECAD6FDCF4) · [arXiv](https://arxiv.org/abs/2206.07809) · [PDF]({{ '/files/Logarithmic_15_June.pdf' | relative_url }})
@@ -71,10 +71,10 @@ With [N. Technau](https://sites.google.com/view/niclas-technaus-website). *Compo
 With [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *J. Assoc. Math. Res.* **2**, 15–52 (2024) · [Journal](https://jamathr.org/index.php/jamr/article/view/Vol-2Issue-1Paper-2) · [arXiv](https://arxiv.org/abs/2205.13004) · [PDF]({{ '/files/KontorovichLutsko2022.pdf' | relative_url }})
 
 **8. Sarnak's spectral gap question.**<br>
-With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *J. Anal. Math.* **151**, (special volume dedicated to Peter Sarnak) 171–179 (2023) · [Journal](https://link.springer.com/article/10.1007/s11854-023-0322-z) · [arXiv](https://arxiv.org/abs/2210.13969) · [PDF]({{ '/files/Exceptional_Spec.pdf' | relative_url }})
+With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *J. Anal. Math.* **151**, 171–179 (2023), special volume dedicated to Peter Sarnak · [Journal](https://link.springer.com/article/10.1007/s11854-023-0322-z) · [arXiv](https://arxiv.org/abs/2210.13969) · [PDF]({{ '/files/Exceptional_Spec.pdf' | relative_url }})
 
 **7. Pair correlation of the fractional parts of $\alpha n^\theta$.**<br>
-With [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/) and [N. Technau](https://sites.google.com/view/niclas-technaus-website). *J. Eur. Math. Soc.* **27**(10), 4069–4082 (2024) · [Journal](https://ems.press/journals/jems/articles/14297682) · [arXiv](https://arxiv.org/abs/2106.09800) · [PDF]({{ '/files/Theta.pdf' | relative_url }})
+With [A. Sourmelidis](https://www.math.tugraz.at/~sourmelidis/) and [N. Technau](https://sites.google.com/view/niclas-technaus-website). *J. Eur. Math. Soc.* **27**(10), 4069–4082 (2025) · [Journal](https://ems.press/journals/jems/articles/14297682) · [arXiv](https://arxiv.org/abs/2106.09800) · [PDF]({{ '/files/Theta.pdf' | relative_url }})
 
 **6. Long-range correlations of sequences modulo 1.**<br>
 *J. Number Theory* **234**, 333–348 (2022) · [Journal](https://www.sciencedirect.com/science/article/pii/S0022314X21002274) · [arXiv](https://arxiv.org/abs/2007.09292) · [PDF]({{ '/files/Long_Range.pdf' | relative_url }})
