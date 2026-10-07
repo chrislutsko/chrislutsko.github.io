@@ -40,8 +40,8 @@ With [A. Haynes](https://www.math.uh.edu/~haynes/) (2025) · [arXiv](https://arx
 **19. Sign changes along geodesics of modular forms.**<br>
 With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). Accepted in *J. Théor. Nombres Bordeaux* (2024) · [arXiv](https://arxiv.org/abs/2409.17248) · [PDF]({{ '/files/Sign_Changes.pdf' | relative_url }})
 
-**18. Counting in lattice orbits.**<br>
-With [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). Accepted in *Bull. London Math. Soc.* (2024) · [arXiv](https://arxiv.org/abs/2401.07740) · [PDF]({{ '/files/Orbit_Count.pdf' | relative_url }})
+**18. Lax–Phillips orbit counting in higher rank.**<br>
+With [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *Bull. London Math. Soc.* **58**(5), e70391 (2026) · [Journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70391) · [arXiv](https://arxiv.org/abs/2401.07740) · [PDF]({{ '/files/Orbit_Count.pdf' | relative_url }})
 
 **17. Diffusion of the random Lorentz process in a magnetic field.**<br>
 With [B. Tóth](https://sites.google.com/view/balint-toth-math/). *J. Math. Phys.* **66**(11) (2025), Editor's Pick · [Journal](https://pubs.aip.org/aip/jmp/article-abstract/66/11/113302/3372183/Diffusion-of-the-random-Lorentz-process-in-a?redirectedFrom=fulltext) · [arXiv](https://arxiv.org/abs/2411.03984) · [PDF]({{ '/files/LutskoToth2024.pdf' | relative_url }})
