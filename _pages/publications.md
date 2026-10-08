@@ -56,7 +56,7 @@ With [T. Weich](https://www.uni-paderborn.de/person/49178) and [L. Wolf](https:/
 With [V. Blomer](https://www.math.uni-bonn.de/people/blomer/). *J. Reine Angew. Math.* **2024**(812), 257–274 (2024) · [Journal](https://www.degruyter.com/document/doi/10.1515/crelle-2024-0037/html) · [arXiv](https://arxiv.org/abs/2309.00522) · [PDF]({{ '/files/hyperbolic-counting-final.pdf' | relative_url }})
 
 **13. Norm bounds on Eisenstein series.**<br>
-With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *Int. J. Number Theory* **20**(8), 2083–2098 (2024) · [Journal](https://doi.org/10.1142/S1793042124501021) · [arXiv](https://arxiv.org/abs/2305.15162) · [PDF]({{ '/files/Mean_Square_Eisenstein.pdf' | relative_url }})
+With [D. Kelmer](https://sites.google.com/bc.edu/dubi-kelmer/) and [A. Kontorovich](https://sites.math.rutgers.edu/~alexk/). *Int. J. Number Theory* **20**(8), 2083–2098 (2024) · [Journal](https://doi.org/10.1142/S1793042124501021) · [arXiv](https://arxiv.org/abs/2305.15162) · [PDF]({{ '/files/Mean_Square_Eisenstein.pdf' | relative_url }}) · [Erratum](https://doi.org/10.1142/S1793042125920010)
 
 **12. These numbers look random but aren't, mathematicians prove.**<br>
 *Scientific American* (2024) · [Article](https://www.scientificamerican.com/article/these-numbers-look-random-but-arent-mathematicians-prove/)
