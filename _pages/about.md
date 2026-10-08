@@ -15,7 +15,7 @@ Much of my work concerns spectral questions in arithmetic and dynamics, includin
 
 ## Recent highlighted results
 
-- **Spacing statistics for a point scatterer on the cubic three-torus**. Preprint (2026). [PDF]({{ '/files/Seba_fine_v38.pdf' | relative_url }})
+- **Spacing statistics for a point scatterer on the cubic three-torus**. Preprint (2026). [arXiv](https://arxiv.org/abs/2610.10031) · [PDF]({{ '/files/Seba_fine_v38.pdf' | relative_url }})
 
 - **Spherical density for real semisimple groups**. Preprint (2026). [arXiv](https://arxiv.org/abs/2610.00298) · [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
 
