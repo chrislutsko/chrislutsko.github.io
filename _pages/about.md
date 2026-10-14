@@ -13,7 +13,7 @@ I am an Assistant Professor of Mathematics at the [University of Houston](https:
 
 Much of my work concerns spectral questions in arithmetic and dynamics, including quantum chaos, local statistics of deterministic sequences, and stochastic models from statistical mechanics.
 
-## Recent highlighted results
+## Some recent results
 
 - **Spacing statistics for a point scatterer on the cubic three-torus**. Preprint (2026). [arXiv](https://arxiv.org/abs/2610.10031) · [PDF]({{ '/files/Seba_fine_v38.pdf' | relative_url }})
 
