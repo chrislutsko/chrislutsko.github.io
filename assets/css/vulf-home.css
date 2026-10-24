@@ -1,0 +1,117 @@
+/* Licensed Vulf webfonts, served from this website. */
+@font-face {
+  font-family: "Vulf Sans";
+  src: url("../fonts/vulf/Vulf_Sans-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vulf Sans";
+  src: url("../fonts/vulf/Vulf_Sans-Italic.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vulf Sans";
+  src: url("../fonts/vulf/Vulf_Sans-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vulf Sans";
+  src: url("../fonts/vulf/Vulf_Sans-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vulf Mono";
+  src: url("../fonts/vulf/VulfMono-Italic.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vulf Mono";
+  src: url("../fonts/vulf/VulfMono-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+body.home {
+  font-family: "Vulf Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.home .masthead__inner-wrap,
+.home .greedy-nav,
+.home .sidebar p,
+.home .sidebar li,
+.home .author__urls-wrapper,
+.home .author__urls-wrapper button,
+.home .page__footer {
+  font-family: "Vulf Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.home .greedy-nav a {
+  font-family: "Vulf Sans", "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.95em;
+  font-weight: 500;
+}
+
+.home .masthead__menu-item--lg a,
+.home .sidebar .author__name {
+  font-family: "Vulf Mono", "Courier New", monospace;
+  font-weight: 700;
+  letter-spacing: -0.035em;
+}
+
+.home .masthead__menu-item--lg a {
+  font-size: 1em;
+}
+
+.home .sidebar .author__name {
+  font-size: 1.05em;
+  line-height: 1.35;
+}
+
+.home .author__bio {
+  font-weight: 500;
+}
+
+.home .archive h2,
+.home .archive h3 {
+  font-family: "Vulf Mono", "Courier New", monospace;
+  font-size: 1.18em;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -0.025em;
+  line-height: 1.4;
+}
+
+.home .archive strong {
+  font-weight: 700;
+}
+
+.home .archive > p {
+  font-size: 1em;
+}
+
+.home .archive > p > a:only-child {
+  font-weight: 500;
+}
+
+@media (max-width: 767px) {
+  .home .archive h2,
+  .home .archive h3 {
+    font-size: 1.08em;
+  }
+}
