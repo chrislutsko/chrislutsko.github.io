@@ -24,10 +24,9 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-{% if page.classes contains 'home' %}
 <link rel="preload" href="{{ '/assets/fonts/vulf/Vulf_Sans-Regular.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{{ '/assets/fonts/vulf/VulfMono-Bold.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="{{ '/assets/css/vulf-home.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/vulf.css' | relative_url }}">
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     if (document.fonts) {
@@ -37,7 +36,6 @@
     }
   });
 </script>
-{% endif %}
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">

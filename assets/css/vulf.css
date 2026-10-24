@@ -47,48 +47,50 @@
   font-display: swap;
 }
 
-body.home {
+body {
   font-family: "Vulf Sans", "Helvetica Neue", Arial, sans-serif;
 }
 
-.home .masthead__inner-wrap,
-.home .greedy-nav,
-.home .sidebar p,
-.home .sidebar li,
-.home .author__urls-wrapper,
-.home .author__urls-wrapper button,
-.home .page__footer {
+.masthead__inner-wrap,
+.greedy-nav,
+.sidebar p,
+.sidebar li,
+.author__urls-wrapper,
+.author__urls-wrapper button,
+.page__footer {
   font-family: "Vulf Sans", "Helvetica Neue", Arial, sans-serif;
 }
 
-.home .greedy-nav a {
+.greedy-nav a {
   font-family: "Vulf Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.95em;
   font-weight: 500;
 }
 
-.home .masthead__menu-item--lg a,
-.home .sidebar .author__name {
+.masthead__menu-item--lg a,
+.sidebar .author__name {
   font-family: "Vulf Mono", "Courier New", monospace;
   font-weight: 700;
   letter-spacing: -0.035em;
 }
 
-.home .masthead__menu-item--lg a {
+.masthead__menu-item--lg a {
   font-size: 1em;
 }
 
-.home .sidebar .author__name {
+.sidebar .author__name {
   font-size: 1.05em;
   line-height: 1.35;
 }
 
-.home .author__bio {
+.author__bio {
   font-weight: 500;
 }
 
-.home .archive h2,
-.home .archive h3 {
+.archive h2,
+.archive h3,
+.page__content h2,
+.page__content h3 {
   font-family: "Vulf Mono", "Courier New", monospace;
   font-size: 1.18em;
   font-style: italic;
@@ -97,21 +99,24 @@ body.home {
   line-height: 1.4;
 }
 
-.home .archive strong {
+.archive strong,
+.page__content strong {
   font-weight: 700;
 }
 
-.home .archive > p {
+.archive > p {
   font-size: 1em;
 }
 
-.home .archive > p > a:only-child {
+.archive > p > a:only-child {
   font-weight: 500;
 }
 
 @media (max-width: 767px) {
-  .home .archive h2,
-  .home .archive h3 {
+  .archive h2,
+  .archive h3,
+  .page__content h2,
+  .page__content h3 {
     font-size: 1.08em;
   }
 }
