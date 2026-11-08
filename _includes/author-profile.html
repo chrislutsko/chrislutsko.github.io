@@ -7,37 +7,35 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-      <img id="rotating-cat-avatar" src="{{ author.avatar }}" alt="Cat portrait on {{ author.name }}'s website">
-    {% else %}
-      <img id="rotating-cat-avatar" src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="Cat portrait on {{ author.name }}'s website">
-    {% endif %}
+    <!-- The uploaded face strip is the default, even when JavaScript is disabled. -->
+    <img id="rotating-cat-avatar"
+         src="{{ '/images/cat-faces-sprite.jpg' | relative_url }}"
+         alt="Cat portrait"
+         class="author__avatar"
+         style="width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;object-position:0% 50%;">
   </div>
   <script>
     (function () {
       var avatar = document.getElementById('rotating-cat-avatar');
       if (!avatar) return;
-      // Option 0 is the existing profile photo; options 1–5 are face crops
-      // stored in a single lightweight sprite image.
-      var total = 6;
+      var spriteUrl = {{ '/images/cat-faces-sprite.jpg' | relative_url | jsonify }};
+      var originalUrl = {{ '/images/Ella_solo.png' | relative_url | jsonify }};
+      // Six pictures: the original and five new faces.
       var previous = -1;
       try {
-        var stored = sessionStorage.getItem('lastCatAvatar');
-        if (stored !== null) previous = Number(stored);
+        var saved = sessionStorage.getItem('lastCatAvatar');
+        if (saved !== null) previous = Number(saved);
       } catch (e) {}
-      var choice = Math.floor(Math.random() * (previous >= 0 && previous < total ? total - 1 : total));
-      if (previous >= 0 && previous < total && choice >= previous) choice++;
+      var choice = Math.floor(Math.random() * (previous >= 0 && previous < 6 ? 5 : 6));
+      if (previous >= 0 && previous < 6 && choice >= previous) choice += 1;
       try { sessionStorage.setItem('lastCatAvatar', String(choice)); } catch (e) {}
-      if (choice === 0) return;
-      var sprite = new Image();
-      sprite.onload = function () {
-        var canvas = document.createElement('canvas');
-        canvas.width = 90;
-        canvas.height = 90;
-        canvas.getContext('2d').drawImage(sprite, (choice - 1) * 90, 0, 90, 90, 0, 0, 90, 90);
-        avatar.src = canvas.toDataURL('image/jpeg', 0.9);
-      };
-      sprite.src = "{{ '/images/cat-faces-sprite.jpg' | relative_url }}";
+      if (choice === 0) {
+        avatar.src = originalUrl;
+        avatar.style.objectPosition = 'center center';
+      } else {
+        avatar.src = spriteUrl;
+        avatar.style.objectPosition = ((choice - 1) * 25) + '% center';
+      }
     })();
   </script>
 
