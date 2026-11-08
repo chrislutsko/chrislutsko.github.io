@@ -1,57 +1,14 @@
-  {% if author.avatar contains "://" %}
-    {% assign cat_avatar_fallback = author.avatar %}
-  {% else %}
-    {% assign cat_avatar_fallback = author.avatar | prepend: "/images/" | prepend: base_path %}
-  {% endif %}
-  <div class="author__avatar">
-    <img id="rotating-cat-avatar"
-         src="{{ cat_avatar_fallback | escape }}"
-         alt="Chris Lutsko's cat"
-         width="175" height="175"
-         style="display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;object-position:center;">
-  </div>
-  <script>
-    (function () {
-      var avatar = document.getElementById('rotating-cat-avatar');
-      if (!avatar) return;
-      var fallbackUrl = avatar.getAttribute('src');
-      var spriteUrl = {{ '/images/cat-faces-366e709a.jpg' | relative_url | jsonify }};
-      var storageKey = 'lastCatAvatar';
-      // Treat the original as the previous photo on a first visit.
-      var previous = 0;
-      try {
-        var saved = sessionStorage.getItem(storageKey);
-        if (saved !== null && /^[0-5]$/.test(saved)) previous = Number(saved);
-      } catch (e) {}
-      var choice = Math.floor(Math.random() * 5);
-      if (choice >= previous) choice += 1;
-      function remember(value) {
-        try { sessionStorage.setItem(storageKey, String(value)); } catch (e) {}
-      }
-      function restoreOriginal() {
-        avatar.onload = null;
-        avatar.onerror = null;
-        avatar.style.objectPosition = 'center';
-        avatar.src = fallbackUrl;
-        remember(0);
-      }
-      if (choice === 0) {
-        remember(0);
-        return;
-      }
-      // Keep the original visible until the new image has successfully decoded.
-      var nextImage = new Image();
-      nextImage.onerror = restoreOriginal;
-      nextImage.onload = function () {
-        if (!nextImage.naturalHeight || nextImage.naturalWidth !== 5 * nextImage.naturalHeight) {
-          restoreOriginal();
-          return;
-        }
-        avatar.onerror = restoreOriginal;
-        avatar.onload = function () { remember(choice); };
-        avatar.style.objectPosition = ((choice - 1) * 25) + '% center';
-        avatar.src = nextImage.src;
-      };
-      nextImage.src = spriteUrl;
-    })();
-  </script>
+{% if author.avatar contains "://" %}
+  {% assign cat_avatar_fallback = author.avatar %}
+{% else %}
+  {% assign cat_avatar_fallback = author.avatar | prepend: "/images/" | prepend: base_path %}
+{% endif %}
+<div class="author__avatar">
+  <img id="rotating-cat-avatar"
+       src="{{ cat_avatar_fallback | escape }}"
+       data-cat-photos="{{ '/images/cat-portrait-f1d8cdee.webp' | relative_url }}|{{ '/images/cat-portrait-5c6ee4fe.webp' | relative_url }}|{{ '/images/cat-portrait-ac0682f2.webp' | relative_url }}|{{ '/images/cat-portrait-36e6df2f.webp' | relative_url }}|{{ '/images/cat-portrait-0ec1ca3d.webp' | relative_url }}"
+       alt="One of Chris Lutsko's cats"
+       width="200" height="289"
+       style="display:block;width:100%;height:auto;">
+</div>
+<script src="{{ '/assets/js/cat-avatar-portraits.js' | relative_url }}" defer></script>
