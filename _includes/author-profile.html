@@ -6,38 +6,7 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
-    <!-- The uploaded face strip is the default, even when JavaScript is disabled. -->
-    <img id="rotating-cat-avatar"
-         src="{{ '/images/cat-faces-sprite.jpg' | relative_url }}"
-         alt="Cat portrait"
-         class="author__avatar"
-         style="width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;object-position:0% 50%;">
-  </div>
-  <script>
-    (function () {
-      var avatar = document.getElementById('rotating-cat-avatar');
-      if (!avatar) return;
-      var spriteUrl = {{ '/images/cat-faces-sprite.jpg' | relative_url | jsonify }};
-      var originalUrl = {{ '/images/Ella_solo.png' | relative_url | jsonify }};
-      // Six pictures: the original and five new faces.
-      var previous = -1;
-      try {
-        var saved = sessionStorage.getItem('lastCatAvatar');
-        if (saved !== null) previous = Number(saved);
-      } catch (e) {}
-      var choice = Math.floor(Math.random() * (previous >= 0 && previous < 6 ? 5 : 6));
-      if (previous >= 0 && previous < 6 && choice >= previous) choice += 1;
-      try { sessionStorage.setItem('lastCatAvatar', String(choice)); } catch (e) {}
-      if (choice === 0) {
-        avatar.src = originalUrl;
-        avatar.style.objectPosition = 'center center';
-      } else {
-        avatar.src = spriteUrl;
-        avatar.style.objectPosition = ((choice - 1) * 25) + '% center';
-      }
-    })();
-  </script>
+  {% include cat-avatar.html %}
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
