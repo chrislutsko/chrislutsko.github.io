@@ -41,7 +41,7 @@ When does a deterministic sequence look random? Take $\alpha n^d$ and keep only 
 
 Correlation functions measure the frequencies of small configurations: pairs, triples, and larger groups of nearby points. The correlations are Poissonian if these frequencies agree, in the limit, with those of independent random points. For $d\geq 2$, this behavior is expected for almost every $\alpha$. Such questions provide arithmetic models for the Poissonian statistics predicted by Berry–Tabor.
 
-In joint work with Nick Rome and Niclas Technau, we prove this prediction for correlations of any fixed order, provided the degree is sufficiently large in terms of that order. This extends the pair-correlation theorem of Rudnick and Sarnak. The general problem, particularly for low-degree polynomials, remains difficult: understanding pairs is only the first step towards understanding the full local statistics.
+In joint work with [Nick Rome](https://sites.google.com/view/nickrome) and [Niclas Technau](https://sites.google.com/view/niclas-technaus-website/home), we prove this prediction for correlations of any fixed order, provided the degree is sufficiently large in terms of that order. This extends the pair-correlation theorem of Rudnick and Sarnak. The general problem, particularly for low-degree polynomials, remains difficult: understanding pairs is only the first step towards understanding the full local statistics.
 
 [Paper](https://arxiv.org/abs/2605.06974) · [PDF]({{ '/files/LRT.pdf' | relative_url }})
 
@@ -56,7 +56,7 @@ For a hyperbolic surface, there is a beautiful relation between three things: th
 
 What is the right version of this relation in higher rank? There are now several independent directions in which an orbit can grow. There are also several commuting invariant differential operators, and their simultaneous spectral parameters form the joint spectrum. Both the geometric and spectral information are naturally multidimensional.
 
-In joint work with Tobias Weich and Lasse Wolf, we prove a precise connection between directional orbit growth, sharp polyhedral bounds on the joint spectrum, and the decay of matrix coefficients, which measure correlations under the group action. In particular, we characterize temperedness, the standard decay behavior of these correlations, by a geometric condition: orbit growth must be bounded by half the ambient volume-growth rate in every direction. This confirms a conjecture of Hee Oh and extends the relation between growth and spectrum beyond rank one.
+In joint work with [Tobias Weich](https://www.uni-paderborn.de/en/person/49178/) and [Lasse Wolf](https://lasselwolf.github.io/), we prove a precise connection between directional orbit growth, sharp polyhedral bounds on the joint spectrum, and the decay of matrix coefficients, which measure correlations under the group action. In particular, we characterize temperedness, the standard decay behavior of these correlations, by a geometric condition: orbit growth must be bounded by half the ambient volume-growth rate in every direction. This confirms a conjecture of Hee Oh and extends the relation between growth and spectrum beyond rank one.
 
 [Paper](https://arxiv.org/abs/2402.02530) · [PDF]({{ '/files/LWW2024.pdf' | relative_url }})
 
@@ -64,12 +64,5 @@ In joint work with Tobias Weich and Lasse Wolf, we prove a precise connection be
   <a href="{{ '/images/research-ww-spectrum.png' | relative_url }}" aria-label="Enlarge the polyhedral spectral bounds">
     <img src="{{ '/images/research-ww-spectrum.png' | relative_url }}" alt="Polyhedral spectral bounds for SL(3,R): a blue outer hexagonal tube and a smaller orange tube, with green spectral planes and a red boundary point." width="1484" height="983" loading="lazy">
   </a>
-  <figcaption>For $\mathrm{SL}_3(\mathbb{R})$, the blue tube gives the general bound; orbit growth determines the smaller orange tube. The red point belongs to the spectrum. The imaginary directions are compressed into one axis.</figcaption>
-</figure>
-
-<figure class="research-figure research-figure--polyhedral">
-  <a href="{{ '/images/research-ww-product.png' | relative_url }}" aria-label="Enlarge the joint spectrum in the product example">
-    <img src="{{ '/images/research-ww-product.png' | relative_url }}" alt="Joint spectrum in a product example, showing continuous spectral pieces, a joint eigenvalue, and orange polyhedral bounds." width="1201" height="994" loading="lazy">
-  </a>
-  <figcaption>A product example: the joint spectrum has both continuous pieces and isolated points. Both figures are from our paper.</figcaption>
+  <figcaption>For $\mathrm{SL}_3(\mathbb{R})$, the blue tube gives the general bound; orbit growth determines the smaller orange tube. The red point belongs to the spectrum. The imaginary directions are compressed into one axis. Figure from our paper.</figcaption>
 </figure>
