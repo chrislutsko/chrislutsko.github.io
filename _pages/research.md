@@ -6,15 +6,15 @@ author_profile: true
 classes: research
 ---
 
-I am interested in how geometry and arithmetic influence the spectrum of a space, and in the statistical behavior of deterministic systems. Here are a few things I have been thinking about recently.
+Much of my work concerns the relation between geometry, arithmetic, and spectral theory. I am particularly interested in how these structures shape the statistical behavior of a system. Here are a few of the questions I have been thinking about recently.
 
-## Šeba billiards
+## Quantum chaos and Šeba billiards
 
-A single point impurity barely affects classical motion: almost every trajectory misses it. A quantum wave does feel the impurity, and its energy levels change. This is the idea behind the Šeba billiard.
+A central question in quantum chaos is how classical dynamics are reflected in quantum energy levels. The Berry–Tabor conjecture predicts Poissonian statistics for generic integrable systems: at small scales, the levels should look like independent random points. The Bohigas–Giannoni–Schmit conjecture predicts random-matrix statistics for generic chaotic systems, with nearby levels tending to repel one another.
 
-I study a version on the cubic three-torus, which one can think of as a cube with opposite faces identified. Adding the impurity produces one new eigenvalue between each pair of consecutive distinct eigenvalues of the Laplacian. I am interested in the gaps between these new energy levels.
+The Šeba billiard tests this picture in a particularly simple way. What happens if we add a single point impurity? Almost every classical trajectory misses the point, so the classical motion is essentially unchanged. A quantum wave does feel it, and the energy levels change.
 
-In recent work, I prove that these gaps, normalized to have mean one, have a limiting distribution independent of the fixed interaction parameter. There is strong level repulsion: the proportion of gaps smaller than $s$ is of order $s^5$, with a periodic modulation on a logarithmic scale. The arithmetic of sums of three squares is visible in the limiting law.
+I study this question on the cubic three-torus, a cube with opposite faces identified. The impurity creates a new eigenvalue between each pair of consecutive distinct Laplace eigenvalues. In recent work, I prove that the gaps between these new levels have a limiting distribution and exhibit strong level repulsion. The law is governed by the arithmetic of sums of three squares and differs from both Poisson and random-matrix statistics. This gives an explicit setting in which arithmetic and a single impurity produce their own spectral statistics.
 
 [Paper](https://arxiv.org/abs/2610.10031) · [PDF]({{ '/files/Seba_fine_v38.pdf' | relative_url }})
 
@@ -25,23 +25,23 @@ In recent work, I prove that these gaps, normalized to have mean one, have a lim
   <figcaption>A numerical approximation to the spacing law, compared with Poisson and the GOE Wigner surmise.</figcaption>
 </figure>
 
-## Spherical density
+## Exceptional spectrum and spherical density
 
-On a compact hyperbolic surface, Laplace eigenvalues below $1/4$ are called exceptional. They influence the rate of mixing and the error terms in counting problems. In higher rank there is an analogous notion of exceptional spectrum. I am interested in how much of it can occur as we pass to larger and larger covers of a fixed space.
+Spectral gaps connect geometry with dynamics and counting. On a hyperbolic surface, for example, small Laplace eigenvalues influence how quickly correlations decay and how accurately we can count orbit points. Much effort goes into ruling out exceptional eigenvalues, those below $1/4$.
 
-Density estimates make this question quantitative: the more exceptional a spectral component is, the less often it should occur. The spherical density hypothesis is a precise version of this principle. Here, “spherical” refers to the part of the representation-theoretic spectrum seen by functions on the locally symmetric space.
+A related question is how many exceptional eigenvalues can occur. As we pass to larger covers of a fixed space, can we show that the exceptional part of the spectrum remains sparse? This is the idea behind the density hypothesis of Sarnak and Xue: the more exceptional a spectral component is, the less often it should occur.
 
-My result gives a geometric criterion for this hypothesis in towers of compact locally symmetric spaces. The criterion, called the weak injective radius property, controls the average number of short returns in the covers. I prove that it implies spherical density with the same parameter. Together with the converse theorem of Golubev and Kamber, this gives an equivalence between a geometric counting condition and a spectral density bound.
+Golubev and Kamber formulated a geometric counterpart to this question, in terms of counting short returns averaged over a cover. In recent work, I prove that their geometric condition implies the spherical density hypothesis for towers of compact locally symmetric spaces, with the same parameter. Together with their converse theorem, this gives an equivalence. Here, the spherical spectrum is the part seen by functions on the locally symmetric space. The result allows us to obtain these density bounds from geometric counting information, including in higher rank.
 
 [Paper](https://arxiv.org/abs/2610.00298) · [PDF]({{ '/files/Spherical_density.pdf' | relative_url }})
 
 ## Poissonian correlations
 
-Take the sequence $\alpha n^d$ and keep only the fractional parts. For irrational $\alpha$ and a positive integer $d$, these points are uniformly distributed in the unit interval. But this says little about what happens when we zoom in to the scale of the average gap, $1/N$ among the first $N$ points.
+When does a deterministic sequence look random? Take $\alpha n^d$ and keep only the fractional parts. For irrational $\alpha$ and a positive integer $d$, Weyl's theorem tells us that these points are uniformly distributed in the unit interval. But uniform distribution says little about the distances between neighboring points. For that, we need to zoom in to the scale of the average gap, $1/N$ among the first $N$ points.
 
-Poissonian correlations mean that small configurations of points occur with the same limiting frequencies as they would for independent random points. Pair correlation measures how often two points lie close together; higher correlations keep track of triples and larger configurations.
+Correlation functions measure the frequencies of small configurations: pairs, triples, and larger groups of nearby points. The correlations are Poissonian if these frequencies agree, in the limit, with those of independent random points. For $d\geq 2$, this behavior is expected for almost every $\alpha$. Such questions provide arithmetic models for the Poissonian statistics predicted by Berry–Tabor.
 
-In joint work with Nick Rome and Niclas Technau, we prove Poissonian correlations of any fixed order for almost every $\alpha$, provided the degree $d$ is sufficiently large in terms of that order. This extends the pair-correlation theorem of Rudnick and Sarnak. A central ingredient is counting solutions to diagonal equations while keeping track of the special solutions lying on smaller-dimensional varieties. These questions are closely related to the Berry–Tabor prediction of Poissonian statistics for generic integrable quantum systems.
+In joint work with Nick Rome and Niclas Technau, we prove this prediction for correlations of any fixed order, provided the degree is sufficiently large in terms of that order. This extends the pair-correlation theorem of Rudnick and Sarnak. The general problem, particularly for low-degree polynomials, remains difficult: understanding pairs is only the first step towards understanding the full local statistics.
 
 [Paper](https://arxiv.org/abs/2605.06974) · [PDF]({{ '/files/LRT.pdf' | relative_url }})
 
@@ -50,13 +50,13 @@ In joint work with Nick Rome and Niclas Technau, we prove Poissonian correlation
   <figcaption>Equal spacing, an arithmetic sequence, and independent random points. Uniform distribution alone does not distinguish their local statistics.</figcaption>
 </figure>
 
-## Growth, spectrum, and temperedness
+## Orbit growth and the spectrum
 
-For a hyperbolic surface, there is a beautiful relation between the growth of an orbit and the bottom of the Laplace spectrum. With Tobias Weich and Lasse Wolf, I studied how this relation extends to higher rank, where growth has several independent directions.
+For a hyperbolic surface, there is a beautiful relation between three things: the growth of an orbit, the bottom of the Laplace spectrum, and the decay of correlations. This lets us use geometric counting information to answer questions about the spectrum and dynamics.
 
-The appropriate spectral object is the joint spectrum of the invariant differential operators: we record several commuting operators together. We prove a precise connection between directional orbit growth, polyhedral bounds on this joint spectrum, and the decay of matrix coefficients, which measure correlations under the group action.
+What is the right version of this relation in higher rank? There are now several independent directions in which an orbit can grow. There are also several commuting invariant differential operators, and their simultaneous spectral parameters form the joint spectrum. Both the geometric and spectral information are naturally multidimensional.
 
-One consequence is a geometric characterization of temperedness, the standard decay behavior of these correlations. It holds precisely when the orbit-growth indicator is bounded by half the ambient volume-growth rate in every direction. This confirms a conjecture of Hee Oh.
+In joint work with Tobias Weich and Lasse Wolf, we prove a precise connection between directional orbit growth, sharp polyhedral bounds on the joint spectrum, and the decay of matrix coefficients, which measure correlations under the group action. In particular, we characterize temperedness, the standard decay behavior of these correlations, by a geometric condition: orbit growth must be bounded by half the ambient volume-growth rate in every direction. This confirms a conjecture of Hee Oh and extends the relation between growth and spectrum beyond rank one.
 
 [Paper](https://arxiv.org/abs/2402.02530) · [PDF]({{ '/files/LWW2024.pdf' | relative_url }})
 
