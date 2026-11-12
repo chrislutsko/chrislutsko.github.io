@@ -64,5 +64,5 @@ In joint work with [Tobias Weich](https://www.uni-paderborn.de/en/person/49178/)
   <a href="{{ '/images/research-ww-spectrum.png' | relative_url }}" aria-label="Enlarge the polyhedral spectral bounds">
     <img src="{{ '/images/research-ww-spectrum.png' | relative_url }}" alt="Polyhedral spectral bounds for SL(3,R): a blue outer hexagonal tube and a smaller orange tube, with green spectral planes and a red boundary point." width="1484" height="983" loading="lazy">
   </a>
-  <figcaption>For $\mathrm{SL}_3(\mathbb{R})$, the blue tube gives the general bound; orbit growth determines the smaller orange tube. The red point belongs to the spectrum. The imaginary directions are compressed into one axis. Figure from our paper.</figcaption>
+  <figcaption>For $\mathrm{SL}_3(\mathbb{R})$, the blue tube gives the general bound; orbit growth determines the smaller orange tube. The red point belongs to the spectrum. The imaginary directions are compressed into one axis. Figure from our paper, made by Lasse.</figcaption>
 </figure>
